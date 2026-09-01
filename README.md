@@ -131,8 +131,7 @@ financial-market-analytics-pipeline/
 ├── assets/
 │   ├── revenue_vs_stock_price.png
 │   ├── news_activity_around_layoffs.png
-│   ├── powerbi_dashboard.png
-│   └── query_plans/
+│   └── PowerBI_dashboard.png
 │
 └── data/
     ├── Layoff.csv
@@ -143,7 +142,6 @@ financial-market-analytics-pipeline/
 ## Technologies
 
 **Languages & Data Processing**
-https://github.com/darinkeng/Multi-Source-Financial-Data-Pipeline-Event-Analysis/tree/main
 * Python
 * Pandas
 * SQL
