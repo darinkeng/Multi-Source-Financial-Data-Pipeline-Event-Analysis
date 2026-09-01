@@ -1,0 +1,1961 @@
+company,location,total_laid_off,date,percentage_laid_off,industry,source,notes
+Google LLC,SF Bay Area,6372.0,2024-10-29,0.03,,https://example.com/x79197,
+ Tesla Inc ,  ,2777,2023-12-26,0.93,Finance,https://example.com/x20044,
+"Tesla, Inc.",Seattle,10146,2024/11/24,0.84,,https://example.com/x93343,
+"Meta Platforms, Inc.",NYC,9017,23-Mar-2023,0.56,Consumer,https://example.com/x48376,synthetic
+airbnb inc,SF Bay Area,N/A,2023/08/27,,Other,https://example.com/x17560,
+MSFT,NYC,"10,304",24-Jan-2023,0.41,Tech,https://example.com/x1503,
+Hooli Labs,NYC,292,08-Jan-2025,,Other,,no_mapping
+Soylent Corp,NYC,48,"March 03, 2025",,Other,,no_mapping
+airbnb inc,Remote,11366.0,2024/08/13,,Tech,https://example.com/x13960,synthetic
+META,Remote,8559,2023-12-03,,Consumer,https://example.com/x19549,synthetic
+Apple,X,100,not-a-date,,Tech,,bad_date
+"Lyft, Inc.",Various,9454,2024/01/23,,Consumer,https://example.com/x77588,
+Apple Inc.,SF Bay Area,9020,2023-07-26,,Consumer,https://example.com/x57694,
+Microsoft,NYC,884,2023-02-02,0.54,Tech,https://example.com/x87247,
+Salesforce,  ,710.0,"January 22, 2025",,Tech,https://example.com/x59377,
+Salesforce Inc.,Various,4626,2023-04-06,,Consumer,https://example.com/x46811,
+META,SF Bay Area,N/A,11/17/2023,0.60,Tech,https://example.com/x56685,synthetic
+Apple,Remote,10572.0,25-Jun-2024,0.99,Other,https://example.com/x68808,
+APPLE INC,Remote,  1604  ,16-Mar-2023,0.58,Tech,https://example.com/x8574,synthetic
+Tesla,Austin,"6,986","December 09, 2023",0.33,Consumer,https://example.com/x78996,
+amazon.com,Various,  7684  ,2024-07-19,0.41,Other,https://example.com/x5665,
+"Meta Platforms, Inc.",Various,11424,2025-01-20,,Other,https://example.com/x66057,synthetic
+Tesla,Various,6529,31-Jul-2024,,Other,https://example.com/x85152,
+  Meta Platforms  ,Various,4898.0,17-May-2024,,Tech,https://example.com/x91773,synthetic
+Google LLC,  ,601.0,"July 23, 2024",0.38,Tech,https://example.com/x42880,
+Tesla,Various,7706,01/04/2025,0.89,Finance,https://example.com/x85856,
+uber technologies,Austin,3182,18-Oct-2023,0.07,Tech,https://example.com/x56929,synthetic
+Uber,Seattle,1203,2025/02/04,,,https://example.com/x51725,
+Apple,Austin,  1354  ,04-Mar-2024,0.45,Consumer,https://example.com/x70243,
+Tesla,  ,11465,10/09/2023,0.18,Finance,https://example.com/x97054,
+"Meta Platforms, Inc.",Austin,3916,2025/02/20,0.12,Finance,https://example.com/x72636,synthetic
+Amazon.com Inc.,Remote,7532,22-Jun-2023,,,https://example.com/x28967,synthetic
+Hooli Labs,NYC,83,"May 09, 2023",,Other,,no_mapping
+CRM,Seattle,4876.0,"August 18, 2023",0.74,Consumer,https://example.com/x1626,
+MSFT,SF Bay Area,  6711  ,2024/08/23,0.17,Consumer,https://example.com/x98418,
+"Uber Technologies, Inc.",  ,10904,"March 02, 2024",,Consumer,https://example.com/x59108,
+LYFT INC,Remote,2479.0,11-Aug-2023,0.01,Other,https://example.com/x39033,
+"Airbnb, Inc.",  ,  7613  ,2023/12/11,0.19,Consumer,https://example.com/x73638,
+meta platforms,Various,9997,12-Sep-2023,0.41,Finance,https://example.com/x53888,
+ Tesla Inc ,Austin,2555,09/20/2023,0.19,,https://example.com/x57329,
+Apple Computer,Seattle,8,01/23/2025,0.79,Finance,https://example.com/x55222,
+Meta Platforms Inc,  ,  4908  ,"September 08, 2024",,Other,https://example.com/x38409,synthetic
+CRM,Remote,9150,11-Jun-2024,0.28,Tech,https://example.com/x3225,
+Google,Austin,7510,10-Aug-2024,,,https://example.com/x39746,
+Apple Inc.,  ,10180,"August 06, 2024",,Consumer,https://example.com/x29064,synthetic
+Salesforce Inc.,  ,"2,840","November 12, 2023",0.00,Other,https://example.com/x10798,
+AMZN,SF Bay Area,"7,771",2023/07/13,,,https://example.com/x13668,synthetic
+Lyft,Austin,  2194  ,2023-12-31,0.66,Consumer,https://example.com/x13118,synthetic
+Tesla,Remote,11608,2023/02/16,0.59,Consumer,https://example.com/x71736,
+Uber,Various,6479,06-Jan-2023,0.63,Other,https://example.com/x49668,
+META PLATFORMS,SF Bay Area,N/A,03-Aug-2024,0.19,Other,https://example.com/x42136,
+microsoft corp.,SF Bay Area,1791,2024-08-16,,Finance,https://example.com/x75418,synthetic
+UBER,Austin,N/A,2023/04/07,,Other,https://example.com/x33309,
+meta platforms,NYC,2470,"March 16, 2024",0.52,Tech,https://example.com/x56705,
+CRM,  ,3879,06/24/2024,0.63,Tech,https://example.com/x89596,
+  Meta Platforms  ,  ,"3,142",2024/05/28,0.90,Tech,https://example.com/x67610,synthetic
+Soylent Corp,NYC,129,02-Dec-2024,,Other,,no_mapping
+Initech Solutions,NYC,233,"March 08, 2025",,Other,,no_mapping
+Amazon.com Inc.,Seattle,1095,2023/04/16,0.20,Other,https://example.com/x84453,synthetic
+microsoft corp.,  ,1363,22-Jun-2024,0.71,Consumer,https://example.com/x82041,
+Globex Industries,NYC,200,08/12/2023,,Other,,no_mapping
+Microsoft,SF Bay Area,3848,2023/07/08,,Consumer,https://example.com/x51177,
+Tesla,Remote,4309,23-Jan-2024,0.29,Other,https://example.com/x15484,
+CRM,Seattle,27,2024/01/17,0.27,Finance,https://example.com/x62532,
+Microsoft,SF Bay Area,6254,07-Aug-2024,,Consumer,https://example.com/x39136,
+apple inc.,Various,"3,304",01-May-2024,0.65,Finance,https://example.com/x1234,synthetic
+meta platforms,Seattle,4477,"January 26, 2024",0.87,Tech,https://example.com/x79068,
+AMAZON.COM,Various,"8,615",06-Jun-2024,,Consumer,https://example.com/x90522,
+Lyft,Austin,3115,2025-03-09,,,https://example.com/x24610,
+CRM,Austin,4638,2023-11-17,,Finance,https://example.com/x68397,
+Apple Computer,  ,8122.0,2023-07-25,0.14,Consumer,https://example.com/x46118,synthetic
+Salesforce Inc.,Austin,N/A,09/16/2023,,,https://example.com/x45689,
+Apple Computer,Remote,9784.0,2023/07/13,0.04,Consumer,https://example.com/x27160,
+AMZN,X,100,not-a-date,,Tech,,bad_date
+"Uber Technologies, Inc.",SF Bay Area,  3024  ,05/20/2024,0.20,Finance,https://example.com/x9662,
+META,SF Bay Area,"11,373",29-Jun-2023,0.64,Other,https://example.com/x1384,
+google llc,Remote,  1677  ,19-Aug-2024,0.26,Consumer,https://example.com/x92988,
+Salesforce,NYC,11802,"March 10, 2023",,Other,https://example.com/x12610,synthetic
+ABNB,  ,  6917  ,09/01/2023,,Consumer,https://example.com/x42083,
+Apple Inc.,SF Bay Area,11116,13-Mar-2023,0.66,Other,https://example.com/x55241,
+Lyft,Austin,10553,"June 13, 2024",0.54,Tech,https://example.com/x17516,
+ABNB,Seattle,"1,817",17-Jan-2025,0.40,,https://example.com/x36485,
+GOOGL,Seattle,8170,2023/11/17,0.27,Finance,https://example.com/x23451,synthetic
+TESLA,SF Bay Area,6466,2024-02-04,0.12,Finance,https://example.com/x92676,
+AMAZON.COM,SF Bay Area,8108.0,"October 23, 2024",0.40,Tech,https://example.com/x86315,synthetic
+salesforce.com,  ,"2,348",2024/11/29,,Other,https://example.com/x25714,
+"Uber Technologies, Inc.",NYC,323,02/07/2023,,Other,https://example.com/x9289,
+meta platforms,Austin,6918.0,"September 26, 2024",0.41,,https://example.com/x4322,
+Google LLC,SF Bay Area,5478,02/26/2025,0.87,Finance,https://example.com/x38631,synthetic
+Alphabet,  ,"8,338","January 09, 2024",0.89,Other,https://example.com/x3628,
+Google LLC,X,100,not-a-date,,Tech,,bad_date
+Airbnb,Seattle,  10892  ,18-Nov-2023,,,https://example.com/x40503,synthetic
+MICROSOFT CORP,Various,23,15-May-2024,,Other,https://example.com/x81807,synthetic
+Amazon.com Inc.,Remote,999.0,08/19/2023,,Tech,https://example.com/x71540,
+google llc,  ,799,2024-03-19,0.44,Other,https://example.com/x64094,synthetic
+Microsoft Corporation,Seattle,  8350  ,"March 08, 2024",0.18,Consumer,https://example.com/x7738,
+TESLA,NYC,  1800  ,2024/01/08,0.37,Tech,https://example.com/x2196,
+Globex Industries,NYC,397,07/27/2023,,Other,,no_mapping
+"Uber Technologies, Inc.",  ,8607.0,01-Aug-2023,,Tech,https://example.com/x57956,
+CRM,Remote,6951,2025/02/21,0.60,Finance,https://example.com/x47538,
+Google,Remote,"10,221",2024-10-22,0.25,Finance,https://example.com/x98256,
+uber technologies,SF Bay Area,4155,"May 26, 2024",,Consumer,https://example.com/x34416,synthetic
+microsoft corp.,  ,"6,131",2023/08/02,0.32,,https://example.com/x97992,synthetic
+Amazon.com Inc.,Austin,672,"August 24, 2023",0.91,Finance,https://example.com/x87835,synthetic
+MSFT,Austin,N/A,"October 01, 2023",,,https://example.com/x43656,
+Uber,Austin,"3,926",11-Jun-2023,,,https://example.com/x61060,
+google llc,  ,N/A,07-Nov-2024,0.18,Finance,https://example.com/x68432,
+Apple Computer,  ,  6911  ,05/11/2024,0.47,Finance,https://example.com/x56413,synthetic
+amazon.com,X,100,not-a-date,,Tech,,bad_date
+TESLA,NYC,3834,04/07/2024,0.63,,https://example.com/x26122,synthetic
+MSFT,Austin,5443.0,"November 24, 2023",,Consumer,https://example.com/x25670,
+LYFT INC,NYC,N/A,08/26/2024,0.59,,https://example.com/x47074,
+microsoft corp.,SF Bay Area,N/A,"June 30, 2024",0.89,Consumer,https://example.com/x37873,
+Salesforce Inc.,X,100,not-a-date,,Tech,,bad_date
+Salesforce Inc.,Various,"10,174",27-Nov-2024,,,https://example.com/x98180,
+Google,Remote,"10,252",2024-10-22,0.25,Finance,https://example.com/x98256,
+AMZN,  ,  1734  ,08/20/2023,,Finance,https://example.com/x49403,
+Salesforce Inc.,Various,11766.0,06/02/2024,,,https://example.com/x5315,
+Apple Inc.,  ,3052,"September 12, 2024",,Tech,https://example.com/x75417,
+AMAZON.COM,Remote,4420,04/30/2023,,Finance,https://example.com/x25411,
+Globex Industries,NYC,99,"August 05, 2023",,Other,,no_mapping
+"Tesla, Inc.",NYC,  11721  ,"October 20, 2023",,Other,https://example.com/x53059,
+Tesla,Various,6942.0,30-Jan-2025,,Finance,https://example.com/x7107,
+Microsoft Corporation,X,100,not-a-date,,Tech,,bad_date
+Tesla,NYC,N/A,2024-10-13,,Finance,https://example.com/x36573,
+Alphabet Inc.,Various,7748,01/04/2025,0.05,,https://example.com/x2257,synthetic
+MICROSOFT CORP,Various,711.0,"January 29, 2024",0.59,Other,https://example.com/x34494,
+meta platforms,SF Bay Area,"6,182",2024/03/20,,Tech,https://example.com/x96799,synthetic
+MICROSOFT CORP,Austin,7739,25-Feb-2025,0.81,Tech,https://example.com/x36206,
+Salesforce,Seattle,"10,154",14-Apr-2023,0.03,,https://example.com/x5893,
+TESLA,SF Bay Area,4876.0,03/07/2025,0.17,Finance,https://example.com/x76687,synthetic
+"Lyft, Inc.",NYC,61.0,2023-03-31,,Finance,https://example.com/x74242,
+Amazon.com Inc.,  ,4568.0,2024/07/17,,Other,https://example.com/x87799,synthetic
+META,  ,"2,989","September 26, 2024",,Other,https://example.com/x15041,synthetic
+AMAZON.COM,Various,  8632  ,06-Jun-2024,,Consumer,https://example.com/x90522,
+Airbnb Inc.,Remote,3323.0,2023-03-16,0.05,Finance,https://example.com/x84558,synthetic
+  Apple Inc  ,Austin,1248,2023/12/17,0.01,Consumer,https://example.com/x34043,
+Hooli Labs,NYC,384,09/13/2024,,Other,,no_mapping
+Airbnb,SF Bay Area,  9543  ,22-May-2023,0.35,Finance,https://example.com/x58385,synthetic
+"Meta Platforms, Inc.",Seattle,9775,20-Feb-2023,0.01,Finance,https://example.com/x47851,
+"Meta Platforms, Inc.",Various,  1082  ,2024-11-14,0.80,Finance,https://example.com/x46103,
+ABNB,NYC,8013.0,2024/12/12,,Finance,https://example.com/x23106,synthetic
+Apple Inc.,  ,7445,2025/03/17,0.81,,https://example.com/x29430,
+"Lyft, Inc.",SF Bay Area,8530,06/21/2024,,Tech,https://example.com/x74825,
+Airbnb,Austin,7526,12/29/2023,,Other,https://example.com/x69359,
+Salesforce,Seattle,8236,09-Oct-2024,0.93,Tech,https://example.com/x4283,
+Airbnb,Remote,"8,541",08/05/2024,0.87,Finance,https://example.com/x77731,
+airbnb inc,Seattle,7831,2023-11-20,0.91,Consumer,https://example.com/x35880,synthetic
+salesforce.com,Seattle,  1086  ,12/09/2024,0.87,,https://example.com/x61011,
+Amazon,Austin,2882.0,2023/06/26,,Other,https://example.com/x68341,
+Apple Computer,Various,N/A,04-Dec-2024,,,https://example.com/x75849,synthetic
+Tesla,Various,"6,572",31-Jul-2024,,Other,https://example.com/x85152,
+amazon.com,NYC,  7753  ,16-Feb-2023,0.15,Finance,https://example.com/x75338,
+microsoft corp.,Austin,  8187  ,2025/02/13,0.38,Finance,https://example.com/x68151,
+apple inc.,Remote,  614  ,2023/07/28,,Tech,https://example.com/x38463,synthetic
+Salesforce Inc.,SF Bay Area,11832.0,"November 02, 2024",0.89,Tech,https://example.com/x13030,synthetic
+MSFT,Seattle,N/A,2023-03-02,0.74,Consumer,https://example.com/x94274,
+Alphabet Inc.,Austin,952.0,2024-09-02,0.17,Finance,https://example.com/x56141,
+"Lyft, Inc.",Austin,6318.0,06/18/2023,0.25,Consumer,https://example.com/x36379,
+Google LLC,  ,9944.0,01-Jun-2024,0.41,Finance,https://example.com/x81729,synthetic
+AMAZON.COM,Remote,"4,425",04/30/2023,,Finance,https://example.com/x25411,
+Meta,Seattle,1781,2023-11-10,0.78,Consumer,https://example.com/x11023,synthetic
+UBER,Remote,4322,01/10/2024,0.10,Finance,https://example.com/x25311,
+LYFT INC,Various,  8416  ,2023-07-08,0.95,Other,https://example.com/x3121,
+apple inc.,SF Bay Area,523,03/22/2023,,Finance,https://example.com/x27764,
+TESLA,  ,  7645  ,03/07/2025,,Other,https://example.com/x32107,
+Microsoft,Austin,  10303  ,18-Dec-2023,,,https://example.com/x8705,
+META PLATFORMS,Various,10012,2023-07-09,,,https://example.com/x54190,synthetic
+AMZN,  ,"6,646",2023/02/12,0.56,,https://example.com/x72918,
+"Uber Technologies, Inc.",Austin,3125,04/28/2023,0.02,,https://example.com/x20002,synthetic
+uber technologies,Remote,10869,2025-03-15,,Tech,https://example.com/x49215,
+"Meta Platforms, Inc.",SF Bay Area,5332,2024/09/05,0.49,,https://example.com/x40588,synthetic
+Google,NYC,  5189  ,04/28/2023,0.91,,https://example.com/x46561,
+uber technologies,Remote,  7902  ,2023-01-23,,Other,https://example.com/x39518,
+Meta,SF Bay Area,  200  ,2024-03-15,0.37,Tech,https://example.com/a0,
+TESLA,  ,9280.0,2024/04/19,0.73,Other,https://example.com/x294,
+LYFT,NYC,9380,19-Jun-2024,0.12,Tech,https://example.com/x11590,synthetic
+  Apple Inc  ,SF Bay Area,11052,07/29/2023,0.11,Other,https://example.com/x5816,synthetic
+Soylent Corp,NYC,319,"December 25, 2023",,Other,,no_mapping
+ABNB,  ,11053,26-Jan-2024,0.59,Other,https://example.com/x11684,
+GOOGL,Austin,2006,2025-01-05,0.56,,https://example.com/x23918,synthetic
+ Tesla Inc ,SF Bay Area,10338.0,"March 31, 2024",,Finance,https://example.com/x18286,
+tesla motors,Austin,4517.0,2024/09/02,0.19,Other,https://example.com/x50157,
+LYFT INC,  ,4077,2023-05-12,,Finance,https://example.com/x67625,
+"Airbnb, Inc.",  ,6425,26-Oct-2024,,Finance,https://example.com/x61433,synthetic
+Microsoft,SF Bay Area,7600,2023-06-29,0.06,Consumer,https://example.com/x82084,
+Alphabet Inc.,NYC,3013,"April 20, 2023",0.28,Tech,https://example.com/x9282,
+Uber,Austin,N/A,"August 05, 2024",0.34,Other,https://example.com/x94062,synthetic
+Soylent Corp,NYC,389,10/02/2023,,Other,,no_mapping
+TESLA,SF Bay Area,"6,239",2023-11-22,0.69,,https://example.com/x80611,synthetic
+Apple Inc.,Austin,"10,532",2024/02/14,0.78,Other,https://example.com/x49617,
+CRM,Seattle,1279,"October 04, 2023",0.30,,https://example.com/x18338,
+Alphabet Inc.,Remote,4676,"June 08, 2023",0.95,Consumer,https://example.com/x67929,
+Salesforce,Seattle,  4633  ,09-Dec-2024,0.64,Tech,https://example.com/x11698,
+Salesforce,  ,"10,610",2023/05/22,,Other,https://example.com/x77736,synthetic
+Lyft,SF Bay Area,"2,505",2025/02/17,,Other,https://example.com/x50884,
+Globex Industries,NYC,350,18-Dec-2023,,Other,,no_mapping
+apple inc.,NYC,7730,2023-10-11,0.70,Other,https://example.com/x36499,
+apple inc.,NYC,3709.0,08/22/2024,0.28,Other,https://example.com/x27088,
+uber technologies,NYC,2172,"October 16, 2024",0.51,Tech,https://example.com/x74135,synthetic
+Apple,NYC,8843,"September 03, 2023",0.40,Tech,https://example.com/x43780,
+CRM,NYC,1372,2023/09/17,0.19,Consumer,https://example.com/x94618,
+"Airbnb, Inc.",Seattle,"7,080",2024-06-02,,Tech,https://example.com/x58869,
+AMZN,Remote,  1685  ,2024/04/29,,,https://example.com/x29788,
+Amazon,Austin,11143,04-Sep-2023,,Consumer,https://example.com/x58150,
+"Airbnb, Inc.",Seattle,10332,2023-12-09,0.91,,https://example.com/x46666,synthetic
+Soylent Corp,NYC,428,2023-06-22,,Other,,no_mapping
+  Meta Platforms  ,NYC,"2,505",2024/05/10,0.30,,https://example.com/x33059,
+amazon.com,Seattle,11590,2025-02-19,0.54,Consumer,https://example.com/x55594,synthetic
+Hooli Labs,NYC,132,2025-03-24,,Other,,no_mapping
+MSFT,NYC,2858.0,07/01/2023,,Consumer,https://example.com/x62729,
+"Meta Platforms, Inc.",NYC,  8548  ,2023-09-15,0.18,Tech,https://example.com/x24868,
+Amazon,SF Bay Area,11545.0,2023/07/28,0.52,,https://example.com/x89763,
+apple inc.,NYC,7693.0,2023-10-11,0.70,Other,https://example.com/x36499,
+"Airbnb, Inc.",Seattle,673,28-Jan-2023,0.16,Finance,https://example.com/x5635,synthetic
+Initech Solutions,NYC,253,12-Jun-2024,,Other,,no_mapping
+tesla motors,NYC,3886.0,2023/06/30,0.40,Tech,https://example.com/x96915,
+AMZN,  ,"11,176",2024/01/26,,Consumer,https://example.com/x35237,synthetic
+Salesforce Inc.,  ,5915,"June 18, 2023",0.35,,https://example.com/x20285,synthetic
+"Meta Platforms, Inc.",Austin,"6,327",16-Jun-2023,0.99,Consumer,https://example.com/x54935,
+Salesforce Inc.,Austin,10775.0,10/24/2024,0.78,Finance,https://example.com/x82019,
+Airbnb,Various,"10,510",2024/11/07,0.88,Tech,https://example.com/x13554,
+Salesforce,Austin,N/A,2024-05-24,,Other,https://example.com/x57974,
+Apple Inc.,  ,11173.0,2023/10/31,,Finance,https://example.com/x90714,
+"Meta Platforms, Inc.",  ,  258  ,13-Feb-2024,,Consumer,https://example.com/x50271,
+Meta,X,100,not-a-date,,Tech,,bad_date
+Amazon,X,100,not-a-date,,Tech,,bad_date
+Airbnb,SF Bay Area,5940,2024-09-23,,,https://example.com/x34932,
+Lyft,NYC,  11969  ,12-Apr-2024,,Tech,https://example.com/x39225,
+APPLE INC,Austin,14,"August 09, 2024",,Other,https://example.com/x24027,synthetic
+Microsoft,Remote,  4575  ,2025/03/17,0.75,Consumer,https://example.com/x40099,
+Amazon.com Inc.,Various,"6,128",2024/12/03,0.10,Consumer,https://example.com/x41661,
+"Meta Platforms, Inc.",Remote,5765,07/01/2024,,Consumer,https://example.com/x73527,
+GOOGL,Seattle,  9854  ,"January 23, 2024",,,https://example.com/x83769,
+ABNB,SF Bay Area,"5,943",2025-02-20,0.06,Tech,https://example.com/x37830,
+amazon.com,Seattle,9624,2023/10/24,0.80,,https://example.com/x37988,
+Airbnb Inc.,Austin,7081,10-Jan-2024,,Consumer,https://example.com/x29370,synthetic
+ABNB,Various,10946,2024/06/07,0.24,Tech,https://example.com/x3763,
+Initech Solutions,NYC,397,16-Mar-2024,,Other,,no_mapping
+Apple Computer,SF Bay Area,6766,"April 11, 2024",,Tech,https://example.com/x71122,synthetic
+Tesla,Austin,3532,09-Feb-2023,0.72,Finance,https://example.com/x12830,
+MICROSOFT CORP,Seattle,179,06/29/2023,0.42,Consumer,https://example.com/x71343,synthetic
+AMZN,  ,N/A,26-Jan-2024,0.00,Finance,https://example.com/x63039,
+Salesforce,Various,920,05/13/2024,0.49,,https://example.com/x82128,synthetic
+microsoft corp.,Remote,  1467  ,"June 10, 2024",0.80,Other,https://example.com/x96677,
+Alphabet Inc.,Various,4702,2024-12-26,0.54,Other,https://example.com/x16930,
+"Airbnb, Inc.",Austin,"10,651",2023-10-12,,,https://example.com/x97579,
+Microsoft Corporation,SF Bay Area,857,07/05/2024,0.40,,https://example.com/x95640,
+"Lyft, Inc.",SF Bay Area,"1,092",2024-08-07,,,https://example.com/x65904,
+salesforce.com,Austin,3304,01/15/2024,,Consumer,https://example.com/x93397,
+Initech Solutions,NYC,495,04/25/2023,,Other,,no_mapping
+Salesforce Inc.,Austin,428,2024/09/27,,Consumer,https://example.com/x34589,
+Apple Computer,Remote,11454.0,07/13/2023,0.81,,https://example.com/x25527,
+CRM,Remote,5946.0,05/12/2023,,Tech,https://example.com/x97946,synthetic
+airbnb inc,Remote,6829,02/24/2024,,Other,https://example.com/x26036,
+uber technologies,Various,  10512  ,2024/07/11,0.76,,https://example.com/x74188,
+"Lyft, Inc.",NYC,"3,761","January 06, 2023",,Finance,https://example.com/x28249,
+salesforce.com,SF Bay Area,4673,28-Jun-2024,0.64,Tech,https://example.com/x25450,
+  Apple Inc  ,Seattle,  5569  ,2024-12-21,,Consumer,https://example.com/x62265,
+airbnb inc,NYC,3177,2024/09/27,,Consumer,https://example.com/x46013,
+Salesforce,Various,6203,"October 19, 2024",0.14,Consumer,https://example.com/x6398,
+TESLA,SF Bay Area,N/A,2024/11/20,,Finance,https://example.com/x94895,synthetic
+AMZN,Austin,  692  ,"October 30, 2024",0.04,Tech,https://example.com/x55908,
+"Uber Technologies, Inc.",Various,  557  ,09/13/2023,0.79,Finance,https://example.com/x55132,
+Salesforce Inc.,NYC,371,2024/06/05,,Finance,https://example.com/x87345,
+"Tesla, Inc.",Various,N/A,"August 21, 2023",,Finance,https://example.com/x25446,
+Airbnb Inc.,Various,7240,05-Jan-2024,,Other,https://example.com/x99694,
+META PLATFORMS,NYC,10633.0,02-Jul-2023,,Tech,https://example.com/x18232,synthetic
+Salesforce,SF Bay Area,300,"September 08, 2023",0.46,Finance,https://example.com/x39106,
+Tesla,Remote,3741.0,2024-04-26,,Tech,https://example.com/x36689,
+"Lyft, Inc.",Various,  4161  ,01/19/2023,,Other,https://example.com/x91940,synthetic
+"Lyft, Inc.",Austin,7223,03/22/2023,,,https://example.com/x47064,
+Salesforce Inc.,NYC,4009,17-Jul-2023,0.05,Finance,https://example.com/x21072,synthetic
+"Lyft, Inc.",Remote,"4,606","June 30, 2023",0.96,,https://example.com/x91746,
+UBER,NYC,  4312  ,2024-09-16,,,https://example.com/x51010,
+meta platforms,  ,1559,2024/06/14,,Finance,https://example.com/x11468,
+Meta,  ,N/A,10/17/2023,0.17,Consumer,https://example.com/x47627,
+airbnb inc,Remote,  1965  ,03/25/2023,,Finance,https://example.com/x1844,
+ Tesla Inc ,SF Bay Area,N/A,"March 31, 2024",,Finance,https://example.com/x18286,
+Meta Platforms Inc,X,100,not-a-date,,Tech,,bad_date
+Amazon.com Inc.,Various,2687,2025/03/31,0.09,Finance,https://example.com/x97626,synthetic
+  Meta Platforms  ,NYC,"6,653",11/27/2023,0.33,Other,https://example.com/x14354,
+tesla motors,Various,11448,2024-09-23,0.14,Other,https://example.com/x93155,
+AMZN,Austin,10223,2023/04/09,0.76,Consumer,https://example.com/x61137,
+Google,Various,10113,08/15/2024,0.13,Tech,https://example.com/x62213,synthetic
+LYFT INC,Various,"10,557",2024/06/07,,Tech,https://example.com/x74879,
+Apple Computer,Austin,  11332  ,01/01/2025,0.52,Tech,https://example.com/x21919,
+Meta,Austin,N/A,"January 01, 2025",,,https://example.com/x5710,synthetic
+Lyft,Remote,4483,01/12/2023,,,https://example.com/x87619,
+amazon.com,Remote,7862,17-Aug-2024,0.07,Consumer,https://example.com/x82359,
+Google,Austin,7474.0,10-Aug-2024,,,https://example.com/x39746,
+"Airbnb, Inc.",NYC,1738,12/06/2023,0.50,Finance,https://example.com/x81607,
+"Lyft, Inc.",SF Bay Area,  2452  ,2024-12-04,0.27,Tech,https://example.com/x2924,
+Alphabet,NYC,  1376  ,2024-10-13,,Tech,https://example.com/x77802,
+META,SF Bay Area,"10,847",2023-08-07,0.82,Consumer,https://example.com/x29381,synthetic
+ABNB,Austin,7645.0,2023/10/07,0.09,Tech,https://example.com/x77625,
+"Meta Platforms, Inc.",Various,5507.0,2024/08/11,0.14,Consumer,https://example.com/x66206,
+ABNB,Austin,2681.0,17-Mar-2023,,Other,https://example.com/x46782,
+Salesforce,Various,11070,01/10/2023,,Consumer,https://example.com/x58723,
+amazon.com,Various,2444.0,"June 06, 2023",0.18,Other,https://example.com/x43983,
+Airbnb,Seattle,3315,2024-12-29,0.56,Tech,https://example.com/x92990,
+  Apple Inc  ,Various,11351.0,"October 03, 2023",,Consumer,https://example.com/x5132,
+"Airbnb, Inc.",  ,3683.0,"November 14, 2023",0.86,Finance,https://example.com/x63135,
+CRM,  ,"11,854",2023/04/08,0.56,Other,https://example.com/x30303,synthetic
+google llc,Austin,6813.0,2023-04-19,0.79,Consumer,https://example.com/x17619,
+Salesforce,Various,"5,763",11-Nov-2024,0.68,Finance,https://example.com/x98776,
+Hooli Labs,NYC,285,05/30/2023,,Other,,no_mapping
+Soylent Corp,NYC,252,27-Mar-2024,,Other,,no_mapping
+ABNB,Seattle,6233,03/01/2023,,Tech,https://example.com/x44721,synthetic
+Salesforce Inc.,SF Bay Area,"6,993",20-Jan-2024,0.12,Tech,https://example.com/x66214,
+Alphabet Inc.,Remote,  1742  ,2023-07-06,0.78,Finance,https://example.com/x69163,
+"Uber Technologies, Inc.",Remote,6284,2024-10-22,0.94,Other,https://example.com/x25550,
+ Tesla Inc ,Remote,11914,"August 26, 2023",0.39,Other,https://example.com/x45235,
+ Tesla Inc ,NYC,274.0,"May 15, 2023",0.06,Tech,https://example.com/a2,
+"Uber Technologies, Inc.",Austin,  3476  ,"March 24, 2023",0.63,Finance,https://example.com/x45061,
+LYFT INC,Various,3907.0,27-Feb-2024,0.88,Tech,https://example.com/x90400,synthetic
+Amazon,Various,1749,23-Jan-2025,,Finance,https://example.com/x68045,
+airbnb inc,SF Bay Area,5887,2024/11/13,,Consumer,https://example.com/x24582,
+AMZN,  ,422,28-Feb-2024,0.08,,https://example.com/a6,
+Airbnb Inc.,NYC,"4,466",2024/02/13,0.43,Finance,https://example.com/x73440,synthetic
+  Apple Inc  ,X,100,not-a-date,,Tech,,bad_date
+UBER,Various,10905.0,03/21/2024,,Finance,https://example.com/x48944,
+Microsoft Corporation,NYC,11837.0,04/03/2023,0.66,Tech,https://example.com/x78246,
+Lyft,SF Bay Area,  11527  ,"April 18, 2024",,Other,https://example.com/x2203,
+Airbnb,SF Bay Area,5900,2024-09-23,,,https://example.com/x34932,
+Initech Solutions,NYC,315,03/17/2025,,Other,,no_mapping
+ Tesla Inc ,Seattle,11889,2023-09-30,0.70,,https://example.com/x5771,synthetic
+Uber,Seattle,807,04/27/2023,0.64,,https://example.com/x77619,
+Tesla,SF Bay Area,9778,"August 22, 2024",0.96,,https://example.com/x63292,synthetic
+Airbnb,  ,  493  ,2025-02-09,0.83,Other,https://example.com/x21779,synthetic
+ABNB,SF Bay Area,5850,2024/09/06,0.90,,https://example.com/x18334,
+Amazon.com Inc.,Seattle,9709,2023/05/04,0.80,Other,https://example.com/x27646,synthetic
+Meta,Seattle,950,2023/12/28,,Consumer,https://example.com/x80397,
+airbnb inc,Austin,  6163  ,2023/12/26,,Consumer,https://example.com/x15328,
+Microsoft Corporation,Seattle,2700.0,2023-09-16,0.50,Consumer,https://example.com/x27279,
+TESLA,Seattle,237,2023-05-09,0.41,Consumer,https://example.com/x62180,synthetic
+LYFT INC,SF Bay Area,6705,"March 02, 2023",0.25,Other,https://example.com/x51443,synthetic
+microsoft corp.,  ,6180,2023-02-02,0.05,Other,https://example.com/x42323,
+LYFT INC,  ,508,19-Sep-2023,0.46,Tech,https://example.com/x59117,
+Amazon.com Inc.,Seattle,1060,2023/04/16,0.20,Other,https://example.com/x84453,synthetic
+META PLATFORMS,NYC,10669,02-Jul-2023,,Tech,https://example.com/x18232,synthetic
+Salesforce,Various,806,2023/12/07,,Consumer,https://example.com/x59599,synthetic
+MSFT,Remote,"3,260",2023/09/02,,Tech,https://example.com/x91413,synthetic
+Salesforce Inc.,Seattle,  2419  ,05/05/2024,,Finance,https://example.com/x5624,synthetic
+"Uber Technologies, Inc.",NYC,7071,05-Jun-2024,,,https://example.com/x24642,
+Uber,SF Bay Area,1673,19-Feb-2024,0.66,Other,https://example.com/x2511,synthetic
+GOOGL,Various,11808,2023/10/04,,Other,https://example.com/x37359,
+Alphabet,Remote,9044,02/21/2025,0.72,Tech,https://example.com/x47811,
+Alphabet,Seattle,6380.0,"January 31, 2023",,Other,https://example.com/x76915,synthetic
+CRM,Various,11771.0,2024-10-09,0.62,Finance,https://example.com/x37368,
+MICROSOFT CORP,NYC,7106,21-Jun-2023,0.64,,https://example.com/x82188,
+CRM,  ,9209.0,02/21/2024,,Consumer,https://example.com/x4711,synthetic
+  Meta Platforms  ,Austin,11100,2024-04-16,,Consumer,https://example.com/x83880,
+Salesforce Inc.,NYC,"11,066",2023/05/05,0.27,Finance,https://example.com/x52488,
+Google,Remote,11003,2023/12/25,0.86,Finance,https://example.com/x14111,synthetic
+uber technologies,SF Bay Area,"4,158","May 26, 2024",,Consumer,https://example.com/x34416,synthetic
+Lyft,NYC,11817.0,2024/06/06,0.01,,https://example.com/x45462,synthetic
+TESLA,SF Bay Area,"3,573",2023-11-04,0.42,Other,https://example.com/x91025,
+UBER,Various,3089,2023/11/09,0.54,Finance,https://example.com/x21941,
+LYFT,NYC,  4967  ,02/19/2024,0.49,Other,https://example.com/x80521,synthetic
+Airbnb,SF Bay Area,4457,23-Aug-2023,0.36,Consumer,https://example.com/x82912,
+"Lyft, Inc.",Various,2286,30-Jan-2023,,Finance,https://example.com/x60534,
+Apple Computer,Seattle,"10,188",2023/04/24,0.38,Other,https://example.com/x7849,
+amazon.com,SF Bay Area,2893.0,2023/07/08,0.42,,https://example.com/x33368,synthetic
+AMZN,Various,  2803  ,2023-05-29,,Other,https://example.com/x38060,
+airbnb inc,NYC,N/A,2024/09/27,,Consumer,https://example.com/x46013,
+CRM,NYC,N/A,"January 06, 2024",,Finance,https://example.com/x10579,
+AMZN,NYC,948,2024-06-09,0.94,Tech,https://example.com/x18265,
+Tesla,SF Bay Area,8450,"February 23, 2024",0.36,Other,https://example.com/x27022,
+Amazon.com Inc.,NYC,11935,10/27/2024,,Tech,https://example.com/x14760,synthetic
+Salesforce Inc.,Austin,1831,11/07/2024,0.97,Tech,https://example.com/x31355,
+ Tesla Inc ,Seattle,"1,483",2023-05-02,,Tech,https://example.com/x84360,synthetic
+CRM,Remote,6598,29-Jul-2023,,,https://example.com/x11364,synthetic
+Apple Inc.,  ,7952,2025/02/15,0.34,Consumer,https://example.com/x27051,
+uber technologies,Various,3361.0,2023-01-11,,Finance,https://example.com/x90124,synthetic
+APPLE INC,NYC,551,03/16/2025,0.46,Tech,https://example.com/x18577,synthetic
+LYFT,Various,  7660  ,22-Jan-2024,0.13,Consumer,https://example.com/x85571,synthetic
+UBER,Seattle,"8,929",2023/02/25,0.62,Tech,https://example.com/x36238,synthetic
+Salesforce Inc.,Seattle,  5547  ,2024-03-23,0.07,Consumer,https://example.com/x27106,synthetic
+Apple,Remote,1340,03-Aug-2023,0.48,,https://example.com/x36897,
+Airbnb Inc.,Various,  4154  ,2023/02/28,0.87,Finance,https://example.com/x30165,
+"Meta Platforms, Inc.",  ,"1,033",2024-08-04,0.17,,https://example.com/x15771,
+microsoft corp.,Seattle,7202,12/22/2024,0.05,Other,https://example.com/x42382,
+Airbnb,Austin,  3988  ,"March 10, 2023",0.54,,https://example.com/x7220,
+AMAZON.COM,Remote,9898.0,"November 01, 2023",,,https://example.com/x64753,
+Airbnb,SF Bay Area,9441,11/04/2024,0.32,Other,https://example.com/x82609,
+Initech Solutions,NYC,494,05/16/2023,,Other,,no_mapping
+Alphabet,Seattle,"5,953",2024-04-11,0.96,,https://example.com/x24829,
+"Lyft, Inc.",NYC,6293,2023-11-22,0.96,Finance,https://example.com/x46442,synthetic
+AMZN,Seattle,"8,219",2023/10/18,0.69,Tech,https://example.com/x88578,synthetic
+microsoft corp.,Austin,8599.0,29-Mar-2023,,Finance,https://example.com/x81060,synthetic
+Hooli Labs,NYC,435,12-Oct-2024,,Other,,no_mapping
+"Tesla, Inc.",Austin,7216,"February 28, 2024",0.66,Finance,https://example.com/x71165,
+MICROSOFT CORP,NYC,10568,09/22/2023,0.05,Tech,https://example.com/x84218,
+APPLE INC,Various,9458,2024/06/03,0.87,Other,https://example.com/x47091,
+Microsoft Corporation,Austin,6224,"April 20, 2023",0.71,Finance,https://example.com/x7865,
+Uber,Various,6299,2024-06-04,,Other,https://example.com/x51135,
+microsoft corp.,NYC,  9706  ,2024-02-26,0.74,,https://example.com/x87225,synthetic
+Apple Computer,Austin,2215,2025-03-15,0.35,Other,https://example.com/x78913,synthetic
+ABNB,Remote,21.0,"March 02, 2025",0.47,Finance,https://example.com/x85800,
+Meta Platforms Inc,Seattle,10726.0,"December 17, 2024",0.00,Tech,https://example.com/x62425,
+Lyft,SF Bay Area,4405,"May 03, 2024",0.68,Consumer,https://example.com/x33140,
+ABNB,Seattle,"8,183","June 29, 2023",,Consumer,https://example.com/x44902,
+Salesforce Inc.,NYC,11584,"December 11, 2024",,Tech,https://example.com/x12842,
+salesforce.com,Seattle,8651,2023/08/04,0.23,Tech,https://example.com/x81463,
+salesforce.com,Austin,10559,2024/06/11,0.45,Finance,https://example.com/x12590,
+Amazon,Austin,6101,2025-01-13,,,https://example.com/x30615,
+Google LLC,SF Bay Area,2164.0,"May 18, 2024",,Other,https://example.com/x35670,
+Salesforce Inc.,Various,7048,12/13/2024,0.24,Other,https://example.com/x77013,
+Google,Remote,N/A,2023/05/06,,Other,https://example.com/x37582,
+"Airbnb, Inc.",Various,"8,829",2023-08-03,0.44,Finance,https://example.com/x10327,
+UBER,Various,"1,359",24-Dec-2024,,Other,https://example.com/x49070,
+tesla motors,NYC,644,"December 06, 2023",,,https://example.com/x53129,synthetic
+"Meta Platforms, Inc.",NYC,N/A,2023/10/18,0.73,Tech,https://example.com/x32119,
+Initech Solutions,NYC,123,09-Feb-2024,,Other,,no_mapping
+Alphabet,SF Bay Area,3445.0,"November 23, 2024",,Tech,https://example.com/x32794,
+meta platforms,Various,"8,282","May 16, 2024",,Tech,https://example.com/x51920,
+Google LLC,SF Bay Area,  9566  ,2024/10/17,0.78,Tech,https://example.com/x2704,
+Airbnb Inc.,Seattle,"3,271",2023-08-02,,Tech,https://example.com/x1174,
+Apple Inc.,NYC,"11,155",2023/11/28,0.88,Consumer,https://example.com/x39897,synthetic
+Airbnb Inc.,Various,7195,05-Jan-2024,,Other,https://example.com/x99694,
+airbnb inc,SF Bay Area,2428,2024/01/24,0.12,Consumer,https://example.com/x16100,
+google llc,  ,847,2024-03-19,0.44,Other,https://example.com/x64094,synthetic
+Microsoft,  ,5899,17-Sep-2023,0.61,Tech,https://example.com/x60851,
+Alphabet,Various,"2,361","November 18, 2024",0.94,Finance,https://example.com/x86697,synthetic
+ Tesla Inc ,SF Bay Area,10910,18-Jan-2023,0.50,Finance,https://example.com/x42102,
+uber technologies,NYC,8006.0,11/18/2024,0.03,Tech,https://example.com/x16365,synthetic
+ABNB,Seattle,"7,729",2024/01/01,0.51,Consumer,https://example.com/x69772,synthetic
+Globex Industries,NYC,354,12-Sep-2024,,Other,,no_mapping
+Uber,  ,8732,24-Mar-2023,0.75,Other,https://example.com/x47973,
+Airbnb Inc.,NYC,"6,444",06/16/2024,0.42,Other,https://example.com/x86901,synthetic
+LYFT INC,Various,5159,05/22/2024,,,https://example.com/x81923,
+Amazon.com Inc.,SF Bay Area,N/A,06/08/2024,,Other,https://example.com/x24433,synthetic
+apple inc.,Seattle,2932.0,"May 20, 2024",,Finance,https://example.com/x15154,synthetic
+Uber,Seattle,"2,632","August 19, 2023",,Finance,https://example.com/x84320,
+Alphabet Inc.,Remote,10436.0,"October 09, 2023",0.78,Finance,https://example.com/x74397,
+  Apple Inc  ,NYC,8897,03/25/2024,0.52,Other,https://example.com/x46083,
+  Apple Inc  ,Various,6895.0,"November 04, 2024",,Other,https://example.com/x62307,
+Uber,Remote,8773,2024-12-07,,Tech,https://example.com/x16519,
+"Uber Technologies, Inc.",NYC,10263,07-Feb-2025,0.93,Consumer,https://example.com/x34255,synthetic
+Apple,  ,5003.0,"November 05, 2024",,Tech,https://example.com/x28209,
+uber technologies,SF Bay Area,  8990  ,17-Jan-2023,,Tech,https://example.com/x2196,
+Soylent Corp,NYC,372,05-Feb-2024,,Other,,no_mapping
+Salesforce Inc.,Remote,8465,"February 28, 2025",0.20,,https://example.com/x91454,
+Meta Platforms Inc,Austin,"7,996",01/13/2024,,,https://example.com/x3401,synthetic
+salesforce.com,Remote,  7123  ,13-Aug-2023,0.88,Other,https://example.com/x77044,
+Globex Industries,NYC,165,10-Nov-2023,,Other,,no_mapping
+"Uber Technologies, Inc.",Various,5666,12-Mar-2023,0.35,Consumer,https://example.com/x87049,synthetic
+TESLA,Seattle,7591,26-Feb-2025,0.85,,https://example.com/x75950,
+Globex Industries,NYC,310,2024-01-23,,Other,,no_mapping
+CRM,SF Bay Area,  1646  ,2025/02/28,0.14,Consumer,https://example.com/x45412,
+Tesla,SF Bay Area,  8470  ,"February 23, 2024",0.36,Other,https://example.com/x27022,
+microsoft corp.,Various,4150,01/13/2023,0.17,Consumer,https://example.com/x91196,
+Uber,Various,4006,10/18/2023,0.02,,https://example.com/x68767,
+amazon.com,  ,"5,541",07-Aug-2024,,Consumer,https://example.com/x51508,
+META PLATFORMS,Austin,4982,01/16/2025,,Tech,https://example.com/x76172,
+tesla motors,  ,638.0,2024-08-20,0.80,Tech,https://example.com/x45766,
+Alphabet Inc.,Seattle,7151,2023/02/27,0.84,Tech,https://example.com/x2648,
+  Apple Inc  ,Austin,  3790  ,2023/06/02,,Finance,https://example.com/x22237,
+Lyft,Austin,3936,2024/09/06,0.07,,https://example.com/x99954,synthetic
+  Apple Inc  ,Various,10303,2024/10/28,,,https://example.com/x37519,
+Microsoft,  ,1312,29-Jun-2024,0.40,Tech,https://example.com/x35044,synthetic
+Tesla,Austin,6154.0,03/09/2023,,Tech,https://example.com/x43655,synthetic
+microsoft corp.,Austin,"11,025","September 13, 2023",0.52,,https://example.com/x42476,
+APPLE INC,  ,"9,011",01/18/2024,0.07,Tech,https://example.com/x80807,synthetic
+Amazon,SF Bay Area,  7423  ,"March 22, 2023",,,https://example.com/x77226,
+ABNB,Remote,4793,16-Feb-2023,0.53,Other,https://example.com/x64780,
+Airbnb,SF Bay Area,  6436  ,08/06/2024,0.35,Other,https://example.com/x71205,
+uber technologies,Remote,5046,2024-06-22,,Other,https://example.com/x38727,synthetic
+Salesforce,Austin,3769,2024-05-24,,Other,https://example.com/x57974,
+Alphabet Inc.,Remote,6773,2023-11-02,0.49,,https://example.com/x94257,
+"Uber Technologies, Inc.",Austin,"5,594",07-May-2024,,,https://example.com/x12407,synthetic
+"Airbnb, Inc.",Various,"6,376",2024-04-05,0.85,,https://example.com/x51012,
+  Meta Platforms  ,NYC,  6639  ,"July 12, 2024",,,https://example.com/x44736,synthetic
+tesla motors,NYC,"8,708",09/19/2023,0.12,Finance,https://example.com/x81635,
+LYFT,Remote,4390.0,01-Nov-2024,,Tech,https://example.com/x21675,
+Apple,  ,  9789  ,2025-02-16,0.29,Other,https://example.com/x80252,
+Apple Computer,SF Bay Area,7160,07/22/2023,,,https://example.com/x4548,synthetic
+Apple Computer,Austin,  6025  ,2023/03/11,,Finance,https://example.com/x19183,synthetic
+META PLATFORMS,Various,507,2024-07-01,0.60,Finance,https://example.com/x60065,
+"Uber Technologies, Inc.",  ,6697,2024/01/04,,Other,https://example.com/x25961,synthetic
+Apple,Austin,3496.0,10/19/2023,,Finance,https://example.com/x46982,
+"Lyft, Inc.",SF Bay Area,1070,2024-08-07,,,https://example.com/x65904,
+amazon.com,Austin,5774,09/04/2023,0.65,Tech,https://example.com/x27223,synthetic
+Amazon.com Inc.,  ,"5,078",2023-12-01,0.18,Finance,https://example.com/x56954,synthetic
+amazon.com,Various,5951.0,14-Apr-2024,0.68,Tech,https://example.com/x75855,synthetic
+Meta,Various,217,2024-09-21,0.57,,https://example.com/x84623,
+Tesla,SF Bay Area,10151,2023/04/24,0.90,Consumer,https://example.com/x98729,
+Tesla,Various,4995,10/01/2023,0.41,Other,https://example.com/x21426,
+"Meta Platforms, Inc.",Various,  11635  ,2023/01/08,0.73,Finance,https://example.com/x18178,
+Apple,Various,N/A,2024/03/14,0.75,Tech,https://example.com/x23473,
+Alphabet,Various,"6,045","June 28, 2023",0.22,Tech,https://example.com/x96769,
+"Airbnb, Inc.",Remote,8849.0,2023-01-26,,Other,https://example.com/x37653,
+"Meta Platforms, Inc.",  ,  11648  ,2024/09/28,0.01,Other,https://example.com/x86465,
+Apple Computer,Remote,  11249  ,"June 12, 2024",,Tech,https://example.com/x7242,
+META PLATFORMS,NYC,  10803  ,2023-09-23,,,https://example.com/x3648,synthetic
+APPLE INC,NYC,401.0,10/05/2023,0.33,,https://example.com/x2976,synthetic
+Salesforce Inc.,Seattle,863,2023-11-27,0.23,Other,https://example.com/x40997,
+Microsoft,NYC,3729.0,12/02/2024,,Consumer,https://example.com/x47885,synthetic
+ Tesla Inc ,SF Bay Area,  6621  ,03/23/2024,,Finance,https://example.com/x75541,
+ABNB,  ,"5,935",2025-02-17,,,https://example.com/x64311,synthetic
+tesla motors,Various,11437,2024-09-23,0.14,Other,https://example.com/x93155,
+Google,Remote,N/A,25-Nov-2023,,Other,https://example.com/x80824,synthetic
+AMZN,Remote,  10490  ,05/24/2023,0.65,Consumer,https://example.com/x99929,
+Airbnb Inc.,Remote,"4,670","October 15, 2024",0.44,Other,https://example.com/x78061,synthetic
+TESLA,Various,6125,"June 12, 2023",,,https://example.com/x60348,synthetic
+Microsoft,Seattle,  6583  ,"March 10, 2025",0.19,Tech,https://example.com/x76093,
+microsoft corp.,SF Bay Area,5200,2024-02-09,,,https://example.com/x20477,
+Amazon,  ,7408,06/08/2024,,Other,https://example.com/x32612,
+Microsoft Corporation,  ,494.0,"January 04, 2023",,Other,https://example.com/x98875,
+  Apple Inc  ,Austin,N/A,2024-01-18,,,https://example.com/x72863,synthetic
+apple inc.,Remote,3219,11/27/2023,,Tech,https://example.com/x20331,
+Amazon.com Inc.,Various,4187,2024-07-19,0.84,Finance,https://example.com/x15983,
+Globex Industries,NYC,54,06/04/2023,,Other,,no_mapping
+Apple,  ,9839,2025-02-16,0.29,Other,https://example.com/x80252,
+ABNB,  ,3731,"June 11, 2024",0.90,Other,https://example.com/x68922,
+MSFT,  ,130,10/21/2023,,Consumer,https://example.com/x69754,synthetic
+Alphabet Inc.,Austin,1470.0,08/03/2023,,Tech,https://example.com/x21848,synthetic
+MICROSOFT CORP,Remote,754,05/21/2024,0.04,Finance,https://example.com/x27240,
+CRM,Austin,"6,905",2024/05/26,0.18,Tech,https://example.com/x90789,synthetic
+Lyft,SF Bay Area,2733.0,04/15/2024,0.97,Finance,https://example.com/x86042,
+Amazon,Seattle,  1027  ,2024/06/26,,Consumer,https://example.com/x96615,
+Lyft,SF Bay Area,9614.0,"March 10, 2023",0.26,Tech,https://example.com/x24968,
+Apple,Various,  7458  ,03/18/2025,,Other,https://example.com/x49090,synthetic
+amazon.com,  ,6062.0,02/18/2023,,,https://example.com/x25445,
+Soylent Corp,NYC,414,2025-01-17,,Other,,no_mapping
+  Apple Inc  ,Austin,891,18-Dec-2024,0.19,Other,https://example.com/x4501,synthetic
+Google,Austin,"4,393",2023/02/25,0.48,Other,https://example.com/x15841,synthetic
+google llc,Various,3639.0,12-Apr-2024,0.09,,https://example.com/x53642,
+Apple,NYC,  1939  ,10-Jul-2024,,Tech,https://example.com/x9444,
+"Lyft, Inc.",SF Bay Area,  2926  ,02/15/2023,0.75,Finance,https://example.com/x71366,synthetic
+meta platforms,Remote,4944,11/04/2023,0.52,Consumer,https://example.com/x18997,
+AMZN,Seattle,"9,663","July 16, 2024",,Other,https://example.com/x65525,
+Globex Industries,NYC,43,04/02/2023,,Other,,no_mapping
+LYFT,  ,  8435  ,2024/02/06,,Finance,https://example.com/x21956,
+CRM,NYC,"4,253",09/28/2024,0.71,Consumer,https://example.com/x91624,
+"Airbnb, Inc.",  ,  10695  ,"January 06, 2024",,Other,https://example.com/x75732,
+airbnb inc,SF Bay Area,7006,2024/12/25,,,https://example.com/x79074,
+Lyft,Remote,N/A,10/07/2023,0.89,Finance,https://example.com/x5554,
+Uber,SF Bay Area,1809.0,12/18/2023,,,https://example.com/x98355,
+ABNB,Austin,  9450  ,"December 06, 2024",0.81,Finance,https://example.com/x53524,
+TESLA,NYC,  9158  ,"July 02, 2024",,Finance,https://example.com/x72694,synthetic
+ABNB,Various,11604,2023-06-17,0.13,Tech,https://example.com/x53887,
+Lyft,Austin,N/A,25-Jul-2023,,Consumer,https://example.com/x26251,
+google llc,X,100,not-a-date,,Tech,,bad_date
+UBER,Various,  1258  ,"June 03, 2023",0.03,Finance,https://example.com/x62851,
+Hooli Labs,NYC,454,15-Dec-2023,,Other,,no_mapping
+  Meta Platforms  ,SF Bay Area,  4422  ,2024-02-10,0.56,Other,https://example.com/x32565,
+UBER,Remote,"7,758",21-Feb-2023,,Tech,https://example.com/x55713,
+MICROSOFT CORP,SF Bay Area,3880,04-Jan-2023,,Consumer,https://example.com/x26924,
+Salesforce Inc.,SF Bay Area,10639,03/15/2025,0.70,Tech,https://example.com/x19316,
+Tesla,Various,11262.0,17-Aug-2023,,,https://example.com/x64775,
+Apple,SF Bay Area,819.0,12/22/2023,0.65,Finance,https://example.com/x90048,
+TESLA,Remote,1632,05/26/2024,,Finance,https://example.com/x54803,
+"Airbnb, Inc.",SF Bay Area,1647.0,"March 18, 2023",0.98,,https://example.com/x45403,synthetic
+meta platforms,SF Bay Area,"10,122",07/23/2023,,Consumer,https://example.com/x30860,
+Microsoft,X,100,not-a-date,,Tech,,bad_date
+  Meta Platforms  ,NYC,3197,"June 18, 2023",0.31,Consumer,https://example.com/x94697,synthetic
+Tesla,Austin,1373,04/02/2023,0.86,Tech,https://example.com/x83763,
+Microsoft,Seattle,N/A,07/18/2023,,Tech,https://example.com/a5,
+amazon.com,Remote,N/A,20-Dec-2023,0.39,,https://example.com/x38411,
+UBER,Various,"1,148","December 22, 2023",0.37,Consumer,https://example.com/x40561,
+META PLATFORMS,Seattle,"1,207","May 14, 2023",0.59,Finance,https://example.com/x57544,
+ Tesla Inc ,  ,  2265  ,"October 25, 2023",0.54,Finance,https://example.com/x78609,
+ABNB,Austin,"5,832",2024/02/21,,Other,https://example.com/x86062,
+  Apple Inc  ,Remote,  3300  ,08/11/2023,,,https://example.com/x63524,synthetic
+tesla motors,Remote,5252,2023/02/15,0.95,Tech,https://example.com/x92603,
+microsoft corp.,Seattle,  4032  ,21-Jan-2025,,Other,https://example.com/x81986,
+UBER,SF Bay Area,5459.0,16-Dec-2023,0.53,Other,https://example.com/x62632,
+META,  ,570,2024/12/11,0.01,Consumer,https://example.com/x1599,
+"Airbnb, Inc.",Remote,971,2023/01/25,,Tech,https://example.com/x40802,
+"Tesla, Inc.",Various,  10287  ,16-Mar-2023,,,https://example.com/x44736,
+UBER,NYC,11331.0,12-Dec-2023,0.62,Other,https://example.com/x11198,
+AMZN,Remote,"1,478",2024/07/11,,Consumer,https://example.com/x35891,
+Airbnb Inc.,Various,4505,"November 13, 2023",,Finance,https://example.com/x16796,
+Apple Inc.,Various,11465,2024-09-20,0.02,Tech,https://example.com/x83600,
+microsoft corp.,SF Bay Area,"3,526",14-Aug-2023,,Tech,https://example.com/x89308,
+Initech Solutions,NYC,500,09-Dec-2023,,Other,,no_mapping
+  Apple Inc  ,  ,5199.0,2023-09-30,0.16,Finance,https://example.com/x69527,
+Apple,Austin,  3531  ,10/19/2023,,Finance,https://example.com/x46982,
+Google LLC,  ,311,"August 22, 2023",,Consumer,https://example.com/a3,
+  Meta Platforms  ,Remote,  4442  ,2025/03/05,0.81,Tech,https://example.com/x42310,
+Initech Solutions,NYC,114,30-Apr-2024,,Other,,no_mapping
+Google,  ,8223,"October 03, 2023",,Consumer,https://example.com/x88772,
+Airbnb,Austin,5149.0,04-Aug-2024,0.57,Consumer,https://example.com/x56281,synthetic
+MSFT,NYC,1406,2024/01/15,,Consumer,https://example.com/x90648,
+MICROSOFT CORP,  ,"5,050",2023-09-26,,Finance,https://example.com/x3517,synthetic
+salesforce.com,Seattle,404,2023-09-11,,Finance,https://example.com/x36902,
+microsoft corp.,SF Bay Area,  11421  ,2024/02/23,0.39,Finance,https://example.com/x18316,
+microsoft corp.,Various,"3,158",30-May-2024,,Other,https://example.com/x55727,synthetic
+AMZN,  ,11678,12/12/2024,,Finance,https://example.com/x82719,
+META,Seattle,  1426  ,"June 22, 2023",,Consumer,https://example.com/x46066,
+apple inc.,Seattle,9746.0,"August 06, 2024",,Finance,https://example.com/x77196,
+LYFT,Remote,  10712  ,"February 12, 2023",,,https://example.com/x91898,
+AMAZON.COM,Remote,795,2025/03/29,,,https://example.com/x5989,synthetic
+Uber,Seattle,5230,"August 13, 2023",0.11,Tech,https://example.com/x83463,synthetic
+Lyft,Various,"8,910",2024-10-05,0.90,Other,https://example.com/x90985,
+Tesla,  ,  5713  ,"January 09, 2024",0.91,Other,https://example.com/x86087,synthetic
+GOOGL,  ,3082,06/17/2023,0.12,Tech,https://example.com/x30216,
+tesla motors,Austin,  7153  ,01/01/2023,0.66,Tech,https://example.com/x90379,
+Soylent Corp,NYC,190,"March 24, 2025",,Other,,no_mapping
+TESLA,Seattle,284,2023-05-09,0.41,Consumer,https://example.com/x62180,synthetic
+AMAZON.COM,NYC,8096.0,2023/03/21,,Finance,https://example.com/x59255,
+MICROSOFT CORP,  ,11938.0,2024/11/26,0.64,Finance,https://example.com/x41659,
+Initech Solutions,NYC,57,2023-06-04,,Other,,no_mapping
+tesla motors,Seattle,9633,"February 20, 2025",,Tech,https://example.com/x84384,synthetic
+AMZN,Remote,N/A,10/09/2023,0.56,Tech,https://example.com/x17933,synthetic
+Meta,Austin,7739,"March 14, 2023",0.47,Finance,https://example.com/x25292,
+Uber,NYC,  517  ,2024/07/13,,Consumer,https://example.com/x19021,
+Meta,SF Bay Area,6393.0,01/27/2025,0.17,,https://example.com/x37576,
+GOOGL,  ,"4,263","July 17, 2024",,Finance,https://example.com/x5290,
+amazon.com,Austin,N/A,2023-06-28,,Consumer,https://example.com/x50477,
+  Apple Inc  ,Remote,3866,2024-09-06,,Consumer,https://example.com/x45109,
+amazon.com,Various,4508,25-Jul-2023,,Finance,https://example.com/x54060,
+LYFT,Remote,"7,340",2023-01-20,,Tech,https://example.com/x76478,
+LYFT,Austin,N/A,2024-07-28,0.80,Tech,https://example.com/x43940,
+Salesforce Inc.,SF Bay Area,8109,2024/07/14,,Other,https://example.com/x8521,
+"Meta Platforms, Inc.",Remote,1474,05/03/2023,,Consumer,https://example.com/x99829,
+Salesforce,Austin,815,2023/12/27,0.19,Tech,https://example.com/x94061,
+META PLATFORMS,Austin,11754,"June 26, 2023",0.28,Finance,https://example.com/x40158,synthetic
+TESLA,Austin,  5012  ,07-Feb-2024,,,https://example.com/x37208,synthetic
+Tesla,Various,"8,805","January 07, 2024",0.98,,https://example.com/x74371,
+AMAZON.COM,Austin,"4,875","February 17, 2023",,,https://example.com/x43528,
+Uber,NYC,"1,863",03/27/2024,0.69,Consumer,https://example.com/x15377,synthetic
+Salesforce Inc.,  ,"5,852",2024-08-09,0.18,Tech,https://example.com/x53995,synthetic
+Lyft,NYC,9575,27-Sep-2024,0.83,Consumer,https://example.com/x75365,
+ABNB,Austin,  5872  ,2024/02/21,,Other,https://example.com/x86062,
+"Lyft, Inc.",NYC,9967,"April 10, 2024",,,https://example.com/x44922,
+CRM,SF Bay Area,7932,2024/01/25,0.24,Tech,https://example.com/x7041,
+apple inc.,Remote,4271,11/13/2024,,Tech,https://example.com/x5202,
+airbnb inc,Remote,  1801  ,2023/10/17,0.90,Other,https://example.com/x55646,
+"Tesla, Inc.",NYC,"1,768",22-Sep-2023,,Finance,https://example.com/x69659,
+Apple,  ,1790.0,2023-06-26,0.99,Other,https://example.com/x65533,synthetic
+  Meta Platforms  ,Seattle,8652,10/11/2023,0.85,Finance,https://example.com/x24015,
+Uber,Austin,7313,2023/12/05,0.36,,https://example.com/x51775,synthetic
+Uber,NYC,4892,2024-01-03,0.87,Consumer,https://example.com/x20717,
+"Uber Technologies, Inc.",Seattle,  8701  ,02/02/2024,0.52,Consumer,https://example.com/x13554,
+Tesla,Various,  11270  ,17-Aug-2023,,,https://example.com/x64775,
+TESLA,Remote,1412.0,"January 26, 2024",,Other,https://example.com/x59780,
+LYFT INC,SF Bay Area,6520.0,2025/03/19,0.22,,https://example.com/x65564,
+uber technologies,SF Bay Area,2704,"May 12, 2023",,Other,https://example.com/x15111,synthetic
+LYFT,SF Bay Area,5345,"December 27, 2023",0.47,Other,https://example.com/x49601,synthetic
+Uber,  ,  8715  ,2024/09/07,0.54,Other,https://example.com/x82845,synthetic
+tesla motors,Austin,"3,877",02/02/2023,0.76,Tech,https://example.com/x95374,
+Soylent Corp,NYC,54,2024-06-28,,Other,,no_mapping
+ABNB,NYC,9138,2024/05/21,0.46,Tech,https://example.com/x84585,
+Airbnb Inc.,Remote,  10827  ,2023-02-28,,Consumer,https://example.com/x56434,
+Uber,SF Bay Area,9468,2024-11-01,0.33,,https://example.com/x33902,
+MICROSOFT CORP,Remote,10469.0,2023/01/27,,Tech,https://example.com/x46348,synthetic
+Apple Computer,Various,  2847  ,08/03/2024,0.22,Consumer,https://example.com/x86623,synthetic
+Amazon.com Inc.,Seattle,4226,"July 19, 2024",,Finance,https://example.com/x57924,
+Hooli Labs,NYC,340,2024-06-09,,Other,,no_mapping
+Microsoft Corporation,NYC,3845.0,13-Dec-2024,0.37,Tech,https://example.com/x16803,
+Amazon,SF Bay Area,"10,430","September 16, 2024",,Other,https://example.com/x61487,
+  Meta Platforms  ,SF Bay Area,5295,12/18/2024,0.43,Consumer,https://example.com/x90497,
+Apple Inc.,SF Bay Area,10071,12/17/2023,0.87,Finance,https://example.com/x62115,
+apple inc.,Seattle,"11,379",2024-09-04,,Consumer,https://example.com/x38769,
+Apple Computer,Austin,"9,254",21-Dec-2023,0.17,Other,https://example.com/x47167,
+airbnb inc,NYC,1788.0,08-May-2023,,Other,https://example.com/x69271,synthetic
+"Tesla, Inc.",Austin,6131,02-May-2024,,Finance,https://example.com/x92881,synthetic
+UBER,Various,4908.0,2023-02-17,,Finance,https://example.com/x94722,synthetic
+TESLA,NYC,3849,04/07/2024,0.63,,https://example.com/x26122,synthetic
+LYFT INC,  ,2692.0,2024-02-08,0.68,Finance,https://example.com/x3000,synthetic
+ Tesla Inc ,SF Bay Area,  11154  ,2024/06/08,,Consumer,https://example.com/x93360,
+Google,Remote,"1,822","February 09, 2024",,,https://example.com/x61216,synthetic
+Microsoft,Seattle,"7,187",08/24/2024,,Consumer,https://example.com/x44589,synthetic
+"Uber Technologies, Inc.",Seattle,"10,955",06/13/2024,0.17,,https://example.com/x38986,
+APPLE INC,Remote,11487,2023/07/12,,,https://example.com/x50122,
+Google,Remote,9557,"January 08, 2025",0.77,Finance,https://example.com/x87392,
+microsoft corp.,Remote,N/A,15-Jan-2023,,Consumer,https://example.com/x36921,
+salesforce.com,Various,10067,11/07/2023,0.50,Consumer,https://example.com/x7946,
+META,Seattle,3795,"December 04, 2023",,,https://example.com/x67481,
+Alphabet,SF Bay Area,"7,693",01-Mar-2025,,Finance,https://example.com/x89056,
+GOOGL,  ,10010,2023/07/22,,Consumer,https://example.com/x63704,
+  Apple Inc  ,Remote,7569.0,2024/02/06,0.06,,https://example.com/x38539,synthetic
+Google,Seattle,5375,2023/05/15,0.56,Finance,https://example.com/x57960,
+"Meta Platforms, Inc.",Austin,524.0,"August 23, 2024",,Finance,https://example.com/x71340,
+"Airbnb, Inc.",  ,"9,650",03/03/2023,0.02,Consumer,https://example.com/x99639,
+microsoft corp.,Various,"5,632",04/25/2023,,Consumer,https://example.com/x17127,
+Salesforce,Austin,11632,12-Jan-2025,,,https://example.com/x72408,
+Uber,NYC,11472,2024/06/18,,Consumer,https://example.com/x95568,
+Hooli Labs,NYC,401,01-Nov-2023,,Other,,no_mapping
+Soylent Corp,NYC,78,03/27/2025,,Other,,no_mapping
+Meta,Various,  377  ,06/11/2023,,Tech,https://example.com/x12883,
+"Uber Technologies, Inc.",SF Bay Area,1177,05-May-2024,0.14,Other,https://example.com/x42213,synthetic
+Microsoft,  ,2743,2023-02-06,0.29,Finance,https://example.com/x86512,
+Lyft,Seattle,  5949  ,"November 21, 2023",0.70,Consumer,https://example.com/x90124,synthetic
+CRM,SF Bay Area,8848,"May 12, 2024",0.24,Other,https://example.com/x10220,synthetic
+TESLA,NYC,5375,2024/05/05,0.75,Other,https://example.com/x15682,synthetic
+google llc,SF Bay Area,10915.0,04/02/2023,0.85,,https://example.com/x30023,
+Airbnb,Seattle,  4030  ,03-Jun-2023,,,https://example.com/x58274,
+microsoft corp.,Austin,8874.0,"December 31, 2023",0.25,Finance,https://example.com/x48968,
+  Meta Platforms  ,X,100,not-a-date,,Tech,,bad_date
+Apple,Seattle,8892.0,2024/10/14,0.88,Tech,https://example.com/x93675,
+Lyft,Austin,1511,12/29/2024,0.09,,https://example.com/x66116,
+microsoft corp.,Seattle,5247.0,2024/10/28,0.92,,https://example.com/x1001,synthetic
+apple inc.,  ,11423,06/07/2024,0.84,Other,https://example.com/x84855,synthetic
+amazon.com,  ,607,"October 29, 2023",0.19,,https://example.com/x73455,synthetic
+APPLE INC,Austin,5952,2023/02/09,0.59,Tech,https://example.com/x89068,
+GOOGL,SF Bay Area,2633.0,2023-10-05,,Finance,https://example.com/x26885,
+Uber,  ,"4,884",2025-02-06,0.36,Other,https://example.com/x15214,
+Salesforce Inc.,NYC,10232,03/01/2025,0.30,Consumer,https://example.com/x39804,
+salesforce.com,SF Bay Area,5939,"June 26, 2024",,Other,https://example.com/x98842,synthetic
+meta platforms,Remote,9578,2024/02/18,0.59,Consumer,https://example.com/x59771,synthetic
+Microsoft,Various,  897  ,2024-10-22,0.01,Finance,https://example.com/x10701,
+GOOGL,Seattle,N/A,2023/11/17,0.27,Finance,https://example.com/x23451,synthetic
+Amazon.com Inc.,Seattle,10303.0,2023/03/26,,Other,https://example.com/x14415,
+"Airbnb, Inc.",Seattle,8827.0,"May 28, 2024",,Finance,https://example.com/x62846,
+META PLATFORMS,Remote,  8060  ,2023/05/13,0.35,Other,https://example.com/x56535,
+Hooli Labs,NYC,198,08-Jun-2024,,Other,,no_mapping
+  Apple Inc  ,Various,1861.0,2023-07-13,0.96,Finance,https://example.com/x63815,
+google llc,Seattle,"9,677","January 08, 2023",0.35,Tech,https://example.com/x19181,
+"Tesla, Inc.",SF Bay Area,1726,2024/04/21,,Tech,https://example.com/x72796,
+Alphabet,  ,11280,09-Jul-2023,0.49,,https://example.com/x70803,synthetic
+Soylent Corp,NYC,363,2023-08-11,,Other,,no_mapping
+Salesforce,Remote,7459.0,2023/01/21,0.98,Other,https://example.com/x69700,
+Tesla,SF Bay Area,  8711  ,"April 29, 2024",,Other,https://example.com/x97472,
+Tesla,Seattle,  6844  ,11/26/2024,0.93,Tech,https://example.com/x31363,
+Amazon,Austin,3400,03/12/2025,0.79,Tech,https://example.com/x59641,synthetic
+uber technologies,Remote,  4344  ,2023-11-17,,,https://example.com/x93269,synthetic
+CRM,  ,11821,2023/04/08,0.56,Other,https://example.com/x30303,synthetic
+META PLATFORMS,Various,8684,2023-11-14,0.22,Other,https://example.com/x41169,
+MICROSOFT CORP,NYC,  10269  ,2024-01-04,,Tech,https://example.com/x87489,
+Apple Inc.,  ,N/A,"December 13, 2023",,Finance,https://example.com/x27218,synthetic
+"Uber Technologies, Inc.",NYC,10886,"January 08, 2023",0.84,Other,https://example.com/x15537,
+Lyft,NYC,11717.0,26-Mar-2023,0.53,Other,https://example.com/x20334,synthetic
+Uber,Various,9356.0,"June 07, 2023",,,https://example.com/x57576,
+Meta Platforms Inc,Austin,  8015  ,01/13/2024,,,https://example.com/x3401,synthetic
+Salesforce Inc.,  ,N/A,2024-07-13,,Finance,https://example.com/x31867,synthetic
+AMZN,Austin,8376,02/25/2024,0.73,Tech,https://example.com/x27987,
+Apple Inc.,  ,"10,161",2024-09-29,,Tech,https://example.com/x57545,
+LYFT,Various,2903.0,"January 13, 2025",,,https://example.com/x27066,
+Lyft,NYC,11977,12-Apr-2024,,Tech,https://example.com/x39225,
+  Meta Platforms  ,NYC,"6,633","December 01, 2023",0.47,Tech,https://example.com/x15387,
+LYFT INC,Seattle,11869.0,"January 02, 2023",0.91,Finance,https://example.com/x76899,
+Amazon.com Inc.,Seattle,10834,05-Dec-2024,,,https://example.com/x35895,synthetic
+UBER,  ,"5,833",18-Oct-2023,0.06,,https://example.com/x68515,
+Amazon,SF Bay Area,"4,301",12/03/2023,0.65,Other,https://example.com/x77231,
+Microsoft,Remote,  8726  ,"January 04, 2025",0.86,Other,https://example.com/x11422,
+Amazon,  ,2750,29-Apr-2024,0.00,Consumer,https://example.com/x6733,
+MSFT,Seattle,6308,2024/07/07,,,https://example.com/x33926,
+MICROSOFT CORP,NYC,  7788  ,2024/08/25,,,https://example.com/x83091,synthetic
+AMZN,Various,758,2024/01/20,0.71,Other,https://example.com/x60978,
+Google LLC,Austin,6763,2023-11-29,,Tech,https://example.com/x755,
+LYFT INC,SF Bay Area,"10,684",20-Nov-2023,0.22,Finance,https://example.com/x17712,
+AMAZON.COM,Various,828.0,"September 26, 2023",,,https://example.com/x902,
+Airbnb,NYC,"7,285",2024-01-29,0.10,,https://example.com/x76488,
+Google LLC,  ,"2,215","July 13, 2023",0.15,Finance,https://example.com/x28463,
+Salesforce,X,100,not-a-date,,Tech,,bad_date
+Lyft,Seattle,8347.0,10-Aug-2024,0.58,Other,https://example.com/x11940,synthetic
+CRM,X,100,not-a-date,,Tech,,bad_date
+Airbnb Inc.,Various,"4,195",2023/02/28,0.87,Finance,https://example.com/x30165,
+"Meta Platforms, Inc.",Remote,"8,295",05/30/2024,0.64,Consumer,https://example.com/x44186,
+AMZN,SF Bay Area,  9918  ,04/11/2023,0.38,Tech,https://example.com/x94484,
+Google,Seattle,6393.0,2024/06/13,0.43,Consumer,https://example.com/x95574,
+LYFT,Austin,  4683  ,02/14/2024,,Finance,https://example.com/x13599,
+UBER,Remote,  3993  ,"April 11, 2023",0.87,Consumer,https://example.com/x2087,
+Meta Platforms Inc,NYC,10200,2024-08-27,,Finance,https://example.com/x67179,synthetic
+Apple,  ,8683,2024/02/08,0.78,Other,https://example.com/x51803,
+apple inc.,Seattle,11336,20-Aug-2024,,Finance,https://example.com/x50622,synthetic
+"Tesla, Inc.",Austin,6084.0,02-May-2024,,Finance,https://example.com/x92881,synthetic
+Initech Solutions,NYC,479,07/20/2023,,Other,,no_mapping
+ABNB,SF Bay Area,"6,458",2023-08-28,0.09,Other,https://example.com/x88307,synthetic
+Amazon,Remote,"9,622",01/26/2023,0.04,Tech,https://example.com/x39772,
+Uber,NYC,  11696  ,2023-03-29,,Tech,https://example.com/x85405,
+Salesforce,NYC,2499,2024/11/25,0.54,,https://example.com/x60947,synthetic
+ABNB,NYC,  577  ,03/17/2025,,,https://example.com/x58759,
+Google,Remote,1868,"February 09, 2024",,,https://example.com/x61216,synthetic
+  Meta Platforms  ,X,100,not-a-date,,Tech,,bad_date
+Uber,Various,11962,2023/06/13,0.09,Finance,https://example.com/x35330,
+Airbnb,Various,7802,16-Jan-2025,0.05,Finance,https://example.com/x36035,
+Apple,NYC,10503,2024/03/14,0.54,Tech,https://example.com/x99518,
+Microsoft Corporation,SF Bay Area,"9,384","March 02, 2025",0.37,Tech,https://example.com/x41983,
+LYFT INC,SF Bay Area,  6743  ,"March 02, 2023",0.25,Other,https://example.com/x51443,synthetic
+microsoft corp.,SF Bay Area,N/A,2023-02-16,0.13,Tech,https://example.com/x19366,
+LYFT INC,Various,1649,28-Jul-2023,,Finance,https://example.com/x98999,
+Salesforce Inc.,Seattle,N/A,04/15/2023,0.88,Other,https://example.com/x82536,
+LYFT,  ,9843.0,2024/02/05,0.74,Other,https://example.com/x83591,
+Tesla,SF Bay Area,5118,"March 08, 2023",0.88,Finance,https://example.com/x9355,synthetic
+Airbnb Inc.,Remote,  4244  ,2024-06-23,0.48,Finance,https://example.com/x98898,synthetic
+Soylent Corp,NYC,492,"August 28, 2024",,Other,,no_mapping
+META PLATFORMS,Various,581,17-Jul-2023,,Finance,https://example.com/x53670,
+Soylent Corp,NYC,312,"September 21, 2024",,Other,,no_mapping
+Amazon,Remote,479,"November 01, 2024",,Tech,https://example.com/x53480,
+Hooli Labs,NYC,50,12/06/2023,,Other,,no_mapping
+Lyft,Various,2036,2024-07-08,,Finance,https://example.com/x79336,synthetic
+LYFT,  ,10096,04/06/2023,0.27,Consumer,https://example.com/x60283,synthetic
+Apple,  ,2246,16-May-2023,0.85,,https://example.com/x55242,
+LYFT INC,NYC,5022,14-Nov-2023,0.33,Other,https://example.com/x10313,
+Google LLC,  ,  5166  ,2024/10/03,0.52,Consumer,https://example.com/x58937,
+UBER,SF Bay Area,4706,2023/12/20,0.51,,https://example.com/x55946,
+Amazon,Various,"6,569",2023/03/29,,Tech,https://example.com/x82802,synthetic
+"Airbnb, Inc.",Various,6368,2024-04-05,0.85,,https://example.com/x51012,
+Google,Remote,1163,2023/10/22,,Tech,https://example.com/x13147,synthetic
+MICROSOFT CORP,Seattle,  7122  ,2024/03/09,,Other,https://example.com/x97951,
+ABNB,Remote,"9,126",2024/09/10,0.10,Other,https://example.com/x68031,
+Apple Computer,NYC,6232,2024-06-24,,Tech,https://example.com/x45114,
+Meta,Various,"10,933",2024/11/04,,Tech,https://example.com/x69105,synthetic
+Salesforce Inc.,Austin,9026,18-May-2023,,Finance,https://example.com/x76160,synthetic
+Globex Industries,NYC,200,2023-11-12,,Other,,no_mapping
+Meta Platforms Inc,Various,"1,944",12/18/2024,,Consumer,https://example.com/x32556,
+Microsoft,Seattle,"8,812",07/10/2023,0.96,Consumer,https://example.com/x45272,synthetic
+AMAZON.COM,Remote,5178,2025-01-08,0.46,,https://example.com/x41604,
+ABNB,SF Bay Area,"1,869","April 26, 2024",,,https://example.com/x53812,
+APPLE INC,Various,  7260  ,"April 14, 2024",,Finance,https://example.com/x46946,
+google llc,Austin,  3455  ,2024-10-21,0.14,Consumer,https://example.com/x91595,
+ABNB,Seattle,5996,05/29/2024,0.79,Tech,https://example.com/x80026,
+Microsoft,Various,8245.0,"September 25, 2023",,Tech,https://example.com/x3337,
+  Meta Platforms  ,Austin,N/A,"March 18, 2025",0.25,Other,https://example.com/x59314,synthetic
+  Apple Inc  ,Various,4057,02/24/2024,,Other,https://example.com/x72757,
+ABNB,X,100,not-a-date,,Tech,,bad_date
+  Meta Platforms  ,Austin,1642,01/11/2025,,,https://example.com/x32205,
+Google LLC,Austin,5438,2024-06-11,0.91,,https://example.com/x22307,
+Microsoft,Remote,10573,"December 29, 2024",0.49,Tech,https://example.com/x11723,synthetic
+APPLE INC,Remote,10362,2024-05-22,0.15,Finance,https://example.com/x90524,synthetic
+Google,Remote,8486,2024/01/10,0.74,Other,https://example.com/x72326,
+"Lyft, Inc.",NYC,2524.0,02/04/2023,0.84,Tech,https://example.com/x91601,
+GOOGL,Remote,6423.0,05-Aug-2023,0.17,Other,https://example.com/x31537,synthetic
+Google LLC,Seattle,"8,293",2025-01-24,0.12,Tech,https://example.com/x20756,synthetic
+  Apple Inc  ,NYC,"2,390",2023-04-13,0.83,,https://example.com/x49781,synthetic
+Alphabet Inc.,Austin,1971,"June 18, 2023",0.68,Consumer,https://example.com/x18210,synthetic
+AMAZON.COM,Various,7317.0,2024/05/25,0.42,Tech,https://example.com/x86144,
+MSFT,Austin,2929,2024/01/25,0.06,Other,https://example.com/x33941,
+Apple Inc.,NYC,781,2023-01-04,0.57,,https://example.com/x69106,
+MICROSOFT CORP,SF Bay Area,1216,2023-01-14,,Other,https://example.com/x69864,synthetic
+amazon.com,Various,  2562  ,11/03/2023,0.64,,https://example.com/x16269,
+APPLE INC,Remote,11606,2024-08-09,,Consumer,https://example.com/x40141,
+"Airbnb, Inc.",  ,1407.0,21-Jul-2023,0.96,Finance,https://example.com/x28164,
+TESLA,X,100,not-a-date,,Tech,,bad_date
+salesforce.com,SF Bay Area,891,2023-11-17,,Finance,https://example.com/x8767,
+"Airbnb, Inc.",Various,"9,718",03/03/2025,0.29,,https://example.com/x64459,
+CRM,Various,"6,309",2024/10/17,,,https://example.com/x24784,
+APPLE INC,Seattle,2522,"October 19, 2024",0.92,Tech,https://example.com/x87205,
+Microsoft Corporation,  ,  8330  ,"November 08, 2023",0.03,Finance,https://example.com/x34640,
+GOOGL,Various,3220,2024-01-19,0.82,Consumer,https://example.com/x70631,
+Tesla,Various,"10,242",27-Jan-2024,0.58,Tech,https://example.com/x25760,
+Tesla,SF Bay Area,5074,"March 08, 2023",0.88,Finance,https://example.com/x9355,synthetic
+Globex Industries,NYC,38,09-Nov-2024,,Other,,no_mapping
+APPLE INC,Remote,"9,027",04/05/2024,0.22,Other,https://example.com/x12357,
+LYFT INC,SF Bay Area,N/A,2024-01-02,,Consumer,https://example.com/x32585,
+Airbnb,SF Bay Area,1102,03/07/2023,,Finance,https://example.com/x77593,
+LYFT,  ,5352.0,2023-04-17,0.29,Finance,https://example.com/x67379,
+"Lyft, Inc.",  ,10275.0,2024/03/31,,Finance,https://example.com/x80287,
+MSFT,Seattle,8308,2023-04-20,0.45,,https://example.com/x40898,
+Meta,Seattle,"1,970",05-Mar-2024,,Consumer,https://example.com/x82381,
+Google LLC,  ,  7079  ,11/21/2023,,Tech,https://example.com/x2115,
+Apple Inc.,Remote,282,2024/06/20,0.72,Finance,https://example.com/x61458,
+META,Austin,"8,030",11/10/2023,,Consumer,https://example.com/x34168,
+Alphabet Inc.,NYC,  9361  ,2023-03-20,,Consumer,https://example.com/x8066,
+Alphabet Inc.,Remote,  7508  ,2024-10-05,,Other,https://example.com/x73407,
+tesla motors,Seattle,11594,27-Feb-2023,0.98,Other,https://example.com/x6190,
+Tesla,Seattle,1631,2023/04/25,,Tech,https://example.com/x704,synthetic
+AMZN,Remote,11915.0,2024/07/23,0.62,Consumer,https://example.com/x28544,
+AMAZON.COM,Austin,2150,"April 22, 2024",,Tech,https://example.com/x24008,
+Airbnb,NYC,"9,576",19-Aug-2024,0.74,Consumer,https://example.com/x67235,synthetic
+Alphabet Inc.,NYC,10105.0,06-Feb-2025,0.27,Finance,https://example.com/x14108,
+Uber,Austin,9034,05/13/2023,0.23,,https://example.com/x4472,synthetic
+Soylent Corp,NYC,442,"June 02, 2024",,Other,,no_mapping
+APPLE INC,  ,8963,01/18/2024,0.07,Tech,https://example.com/x80807,synthetic
+MICROSOFT CORP,NYC,"2,790",2024/02/01,,Other,https://example.com/x77734,
+microsoft corp.,SF Bay Area,"5,911",14-Aug-2024,,,https://example.com/x34089,
+airbnb inc,Austin,9896,2024/01/10,0.24,Other,https://example.com/x73760,
+amazon.com,Remote,5335,"November 18, 2024",,,https://example.com/x23995,synthetic
+google llc,Seattle,1631,"October 01, 2023",,Tech,https://example.com/x8224,
+amazon.com,Seattle,  2930  ,2024-02-29,0.52,Tech,https://example.com/x1397,
+AMZN,Various,  5701  ,06/25/2024,,Other,https://example.com/x99348,
+Lyft,  ,7563.0,2023/10/06,,Finance,https://example.com/x55037,
+Uber,SF Bay Area,  998  ,"January 22, 2024",0.23,Consumer,https://example.com/x82922,synthetic
+Airbnb Inc.,NYC,  76  ,07-Nov-2023,,,https://example.com/x54414,
+"Uber Technologies, Inc.",  ,9022.0,2025/01/18,,,https://example.com/x79715,
+META,X,100,not-a-date,,Tech,,bad_date
+Apple Inc.,Remote,9728,2023/12/14,,,https://example.com/x71950,
+Amazon,Seattle,  2885  ,2023/07/12,,Finance,https://example.com/x81408,
+Hooli Labs,NYC,304,"January 01, 2024",,Other,,no_mapping
+Alphabet Inc.,NYC,6556.0,2024/11/29,,Tech,https://example.com/x85270,
+TESLA,  ,  8355  ,04-May-2024,,Tech,https://example.com/x58093,
+Microsoft,  ,5482,"November 20, 2024",0.44,,https://example.com/x17832,
+uber technologies,Remote,11668,2025/03/04,0.74,Finance,https://example.com/x87305,
+"Tesla, Inc.",Seattle,  7987  ,2023-05-17,0.82,Consumer,https://example.com/x50636,
+Uber,SF Bay Area,4516,11/22/2024,,Consumer,https://example.com/x79238,
+google llc,Various,"9,581","January 10, 2024",0.34,Other,https://example.com/x51835,synthetic
+LYFT,Seattle,11447.0,2023-03-29,0.12,Finance,https://example.com/x91414,synthetic
+Microsoft Corporation,Seattle,974,16-Jan-2023,0.85,Consumer,https://example.com/x36866,synthetic
+Lyft,Austin,4153,2024/07/24,,Tech,https://example.com/x79275,synthetic
+Google LLC,  ,10429,2024/03/23,0.15,Tech,https://example.com/x75835,synthetic
+Globex Industries,NYC,468,01/07/2024,,Other,,no_mapping
+Uber,Remote,  10832  ,2024-09-23,0.35,Tech,https://example.com/x47259,
+UBER,Austin,  317  ,2023-02-10,,,https://example.com/x77252,
+  Apple Inc  ,Austin,"2,626","December 16, 2023",0.80,Tech,https://example.com/x46238,synthetic
+ABNB,Austin,  10273  ,24-Mar-2023,0.08,Finance,https://example.com/x86394,synthetic
+apple inc.,X,100,not-a-date,,Tech,,bad_date
+  Apple Inc  ,Seattle,10299.0,10/06/2024,,,https://example.com/x99596,
+google llc,NYC,609.0,2023/01/24,0.66,Consumer,https://example.com/x67730,
+"Uber Technologies, Inc.",Remote,  3982  ,04/25/2024,0.84,,https://example.com/x91536,synthetic
+Apple,X,100,not-a-date,,Tech,,bad_date
+uber technologies,Remote,3163,2023-11-03,0.58,Other,https://example.com/x65731,
+Airbnb,Various,"3,916",2024-12-30,0.68,Other,https://example.com/x124,
+TESLA,NYC,10967,2023/11/06,0.25,Other,https://example.com/x15611,synthetic
+Amazon,Remote,"9,587",01/26/2023,0.04,Tech,https://example.com/x39772,
+Airbnb Inc.,Austin,  11103  ,02/17/2023,0.97,Finance,https://example.com/x75795,
+Microsoft,Various,N/A,2023-03-09,0.06,,https://example.com/x22863,
+Uber,Various,3634,24-Mar-2024,,Other,https://example.com/x75353,
+  Meta Platforms  ,  ,9207,2023/04/23,0.13,Finance,https://example.com/x27871,
+Amazon,SF Bay Area,11175,13-Dec-2023,,Consumer,https://example.com/x83024,
+Uber,NYC,"10,054",03/30/2024,0.40,,https://example.com/x1479,
+tesla motors,NYC,"3,921",2023/06/30,0.40,Tech,https://example.com/x96915,
+Soylent Corp,NYC,480,02/08/2025,,Other,,no_mapping
+UBER,Remote,10494.0,2024/06/07,0.33,Consumer,https://example.com/x82444,
+Lyft,Seattle,4324,21-Sep-2024,0.11,,https://example.com/x86128,
+ABNB,Austin,  208  ,11/01/2023,,Finance,https://example.com/x84737,
+LYFT,SF Bay Area,376.0,2023/11/03,,Finance,https://example.com/x43158,
+META PLATFORMS,NYC,2747,2023/09/25,,Tech,https://example.com/x51179,
+amazon.com,Remote,N/A,"November 18, 2024",,,https://example.com/x23995,synthetic
+Lyft,SF Bay Area,1943,"May 10, 2023",0.25,Consumer,https://example.com/x48140,
+Globex Industries,NYC,165,"September 05, 2023",,Other,,no_mapping
+Hooli Labs,NYC,408,08/25/2023,,Other,,no_mapping
+Lyft,  ,2001,2024/04/14,,Consumer,https://example.com/x91252,
+Apple Computer,NYC,  11484  ,"June 14, 2023",0.32,Other,https://example.com/x46771,
+AMAZON.COM,Various,"5,969",21-Oct-2024,,Finance,https://example.com/x51417,
+MICROSOFT CORP,Austin,"9,587","April 28, 2024",0.99,Finance,https://example.com/x40431,
+"Tesla, Inc.",SF Bay Area,11165,31-Jul-2024,0.68,Consumer,https://example.com/x68756,
+Salesforce,Remote,N/A,2024-06-23,0.81,Consumer,https://example.com/x99372,synthetic
+Globex Industries,NYC,134,06/16/2024,,Other,,no_mapping
+"Lyft, Inc.",NYC,3713,"January 06, 2023",,Finance,https://example.com/x28249,
+uber technologies,Various,10850,27-Mar-2024,0.17,Tech,https://example.com/x35121,
+google llc,Various,7293,"June 20, 2024",0.73,Finance,https://example.com/x71559,synthetic
+MSFT,Remote,3027,09/05/2023,0.82,Tech,https://example.com/x9791,
+CRM,  ,"11,273","July 14, 2024",0.98,Consumer,https://example.com/x58004,
+uber technologies,Remote,"1,411",2023/08/08,,,https://example.com/x83313,synthetic
+salesforce.com,Various,9266,15-May-2023,0.24,Consumer,https://example.com/x93968,synthetic
+ABNB,  ,10101,"October 24, 2024",,Finance,https://example.com/x60838,
+MICROSOFT CORP,NYC,2805,2024/02/01,,Other,https://example.com/x77734,
+amazon.com,Austin,11885,2024-06-25,0.63,Consumer,https://example.com/x64166,
+Airbnb Inc.,SF Bay Area,5977,14-Jul-2023,0.77,Finance,https://example.com/x23030,
+Apple Computer,Various,2808,08/03/2024,0.22,Consumer,https://example.com/x86623,synthetic
+LYFT,Austin,"3,312","April 10, 2024",0.46,Consumer,https://example.com/x37205,
+Lyft,SF Bay Area,961.0,2024-10-29,,,https://example.com/x20684,synthetic
+LYFT,Various,2213,19-Aug-2024,0.87,,https://example.com/x80384,
+Uber,Austin,11510,04/04/2024,0.26,,https://example.com/x90624,
+Soylent Corp,NYC,227,29-Mar-2023,,Other,,no_mapping
+MSFT,Austin,"6,338",2023-03-31,0.38,Consumer,https://example.com/x77280,
+"Lyft, Inc.",NYC,N/A,2023/03/23,0.65,Finance,https://example.com/x53717,
+LYFT INC,SF Bay Area,6913.0,"July 27, 2024",0.77,Other,https://example.com/x27154,
+ABNB,SF Bay Area,  8943  ,"November 27, 2023",,Other,https://example.com/x68717,
+Airbnb Inc.,Seattle,6957.0,10/24/2024,,Other,https://example.com/x6094,synthetic
+UBER,NYC,2271.0,2023-02-25,0.05,Tech,https://example.com/x68897,
+airbnb inc,SF Bay Area,6875.0,09/30/2023,,Consumer,https://example.com/x85122,
+LYFT,Remote,959,"February 09, 2024",0.91,Consumer,https://example.com/x91377,
+Alphabet Inc.,Various,3183.0,"February 19, 2024",,,https://example.com/x53569,
+tesla motors,Seattle,8590,2024-03-26,,Finance,https://example.com/x11674,
+Airbnb,Remote,  2278  ,2024/04/09,0.98,Finance,https://example.com/x87491,synthetic
+Apple,NYC,7713,12-Oct-2024,0.42,Other,https://example.com/x70557,
+Initech Solutions,NYC,131,"March 19, 2024",,Other,,no_mapping
+Microsoft,  ,6638.0,2023-04-25,,Consumer,https://example.com/x54542,
+salesforce.com,Remote,"3,916",09/24/2024,,Tech,https://example.com/x95954,
+Apple Inc.,Seattle,"3,503","September 20, 2024",,Tech,https://example.com/x13034,
+airbnb inc,Austin,N/A,"January 28, 2025",,Consumer,https://example.com/x66223,synthetic
+Tesla,Various,1494.0,14-Feb-2024,0.83,Consumer,https://example.com/x81961,
+apple inc.,Austin,"8,470","November 01, 2024",0.70,Tech,https://example.com/x24198,synthetic
+google llc,Remote,  3043  ,25-May-2023,0.06,Consumer,https://example.com/x4759,
+UBER,Remote,  6310  ,26-Mar-2023,,Consumer,https://example.com/x68758,
+Tesla,Austin,6895,12/12/2024,0.22,,https://example.com/x5288,
+LYFT INC,Seattle,  11881  ,"January 02, 2023",0.91,Finance,https://example.com/x76899,
+Hooli Labs,NYC,458,"October 12, 2023",,Other,,no_mapping
+Microsoft,Various,2500,19-Dec-2024,0.90,Consumer,https://example.com/x32639,
+Google LLC,Various,  442  ,2024/01/16,0.23,Consumer,https://example.com/x24112,
+UBER,NYC,  11953  ,12/06/2023,0.24,,https://example.com/x90035,
+tesla motors,Various,1675,2024-02-17,,Finance,https://example.com/x21009,
+tesla motors,SF Bay Area,  2163  ,12/03/2024,1.00,,https://example.com/x10859,
+Google,Remote,5822,01/12/2025,,,https://example.com/x16612,synthetic
+Hooli Labs,NYC,314,09/20/2024,,Other,,no_mapping
+META,Seattle,9596,18-Feb-2024,,Finance,https://example.com/x10472,
+Alphabet,  ,3414.0,30-Apr-2024,,Consumer,https://example.com/x56748,
+Globex Industries,NYC,448,14-Jan-2023,,Other,,no_mapping
+microsoft corp.,SF Bay Area,3524.0,14-Aug-2023,,Tech,https://example.com/x89308,
+Uber,Seattle,7694.0,31-Oct-2024,0.50,Consumer,https://example.com/x57223,
+ Tesla Inc ,Various,"6,357",2023-02-10,0.72,Other,https://example.com/x32274,
+Google,NYC,"10,135",2023-07-21,0.43,,https://example.com/x30835,synthetic
+Tesla,SF Bay Area,  3468  ,27-Apr-2024,0.93,Other,https://example.com/x88032,
+LYFT,NYC,"5,129",2024-01-29,0.82,Tech,https://example.com/x76499,
+airbnb inc,  ,9401,2023-01-07,,Consumer,https://example.com/x35636,synthetic
+AMZN,SF Bay Area,7733,2023-09-07,,,https://example.com/x30838,
+LYFT INC,Austin,N/A,18-Sep-2023,0.39,Consumer,https://example.com/x43326,
+Salesforce Inc.,Austin,11287,04-Jun-2024,0.51,Tech,https://example.com/x74088,
+CRM,Remote,N/A,23-Oct-2023,0.74,Tech,https://example.com/x83389,
+"Tesla, Inc.",Seattle,11471,10/23/2024,,Other,https://example.com/x47794,
+AMAZON.COM,Remote,"11,482","April 13, 2024",0.78,,https://example.com/x97302,synthetic
+Salesforce Inc.,Various,2724,"December 25, 2024",0.66,Finance,https://example.com/x70075,
+airbnb inc,NYC,  5781  ,2023-05-27,0.04,Other,https://example.com/x54998,
+Initech Solutions,NYC,285,03/28/2025,,Other,,no_mapping
+microsoft corp.,Austin,5966.0,"June 18, 2023",0.07,Consumer,https://example.com/x78271,
+Meta Platforms Inc,  ,10639.0,07/23/2024,,Other,https://example.com/x25346,synthetic
+airbnb inc,  ,  2876  ,06/12/2024,,Tech,https://example.com/x53781,
+Meta,  ,2581,11-May-2023,0.10,Other,https://example.com/x79826,synthetic
+meta platforms,  ,4535,"September 16, 2023",0.36,Consumer,https://example.com/x23879,
+MSFT,SF Bay Area,9332.0,"February 07, 2025",,Tech,https://example.com/x16107,
+microsoft corp.,Remote,265,08/31/2023,0.09,Tech,https://example.com/x34456,
+UBER,SF Bay Area,  9598  ,05/04/2023,0.58,Consumer,https://example.com/x47190,
+UBER,NYC,10970.0,2023-09-06,0.29,Consumer,https://example.com/x2251,
+Apple Inc.,Remote,1013,"November 27, 2024",0.54,Finance,https://example.com/x77189,synthetic
+AMZN,Austin,8331.0,02/25/2024,0.73,Tech,https://example.com/x27987,
+Salesforce,  ,4827,09/26/2023,,Consumer,https://example.com/x64637,
+salesforce.com,NYC,"9,901",16-Sep-2024,,Finance,https://example.com/x65152,
+CRM,Various,4837,07/01/2023,0.58,,https://example.com/x5410,
+Alphabet,Remote,"10,014",2024/09/13,,Finance,https://example.com/x5581,synthetic
+Amazon.com Inc.,Remote,5801,24-Feb-2023,0.34,Finance,https://example.com/x65109,
+Apple Inc.,Various,7713.0,"July 25, 2024",0.32,Tech,https://example.com/x21281,
+TESLA,Seattle,10532.0,"November 24, 2024",,Consumer,https://example.com/x4787,synthetic
+Google LLC,Remote,3775,04/27/2024,0.48,Other,https://example.com/x60549,synthetic
+apple inc.,Austin,7041,"August 23, 2024",,Tech,https://example.com/x48677,
+META,X,100,not-a-date,,Tech,,bad_date
+"Uber Technologies, Inc.",SF Bay Area,990,"February 28, 2025",,,https://example.com/x20066,
+Microsoft Corporation,Remote,792.0,2024-07-01,0.24,Finance,https://example.com/x41438,
+"Airbnb, Inc.",NYC,1435,09/04/2023,0.59,Consumer,https://example.com/x80056,
+Airbnb Inc.,SF Bay Area,10131.0,2023-11-01,0.35,Tech,https://example.com/x95172,synthetic
+Airbnb Inc.,Seattle,3172,"July 09, 2024",,Consumer,https://example.com/x78861,synthetic
+LYFT,Various,10915,"January 05, 2023",,Tech,https://example.com/x22797,synthetic
+Initech Solutions,NYC,41,2025-01-02,,Other,,no_mapping
+Google,SF Bay Area,10496,"October 11, 2023",0.18,Other,https://example.com/x4754,
+Uber,SF Bay Area,"5,607",2023-11-07,,,https://example.com/x52548,
+Meta,X,100,not-a-date,,Tech,,bad_date
+META,X,100,not-a-date,,Tech,,bad_date
+Soylent Corp,NYC,259,02/17/2025,,Other,,no_mapping
+apple inc.,X,100,not-a-date,,Tech,,bad_date
+Uber,NYC,"7,261",2024/06/18,0.82,Consumer,https://example.com/x4082,
+meta platforms,Various,5076.0,"September 29, 2024",,Finance,https://example.com/x73764,
+microsoft corp.,NYC,552,12-Mar-2024,,Finance,https://example.com/x37261,synthetic
+LYFT INC,  ,8462,08/01/2023,,Consumer,https://example.com/x62727,synthetic
+Apple Computer,  ,10847,2023-02-11,0.73,Consumer,https://example.com/x40530,
+LYFT INC,Various,302,"March 14, 2025",,,https://example.com/x82765,synthetic
+Uber,SF Bay Area,9452.0,2024-11-01,0.33,,https://example.com/x33902,
+MICROSOFT CORP,Various,5859,09-Oct-2023,0.68,Consumer,https://example.com/x48179,synthetic
+amazon.com,NYC,980,"April 24, 2024",0.99,Tech,https://example.com/x79877,
+ Tesla Inc ,Seattle,  5358  ,"January 20, 2023",0.21,,https://example.com/x40162,
+Tesla,  ,525.0,2023/02/01,,Finance,https://example.com/x67996,
+airbnb inc,  ,3344,07-Feb-2023,,Tech,https://example.com/x85611,
+Microsoft Corporation,Seattle,122,"December 03, 2024",0.12,Tech,https://example.com/x22936,
+Airbnb,  ,5583.0,01-May-2023,0.80,Finance,https://example.com/x89120,
+LYFT INC,Austin,10623,2023-08-02,,,https://example.com/x79469,
+"Uber Technologies, Inc.",Remote,3967.0,2023/07/17,,Tech,https://example.com/x90000,
+Alphabet,SF Bay Area,  3861  ,10/11/2024,0.40,,https://example.com/x40856,synthetic
+LYFT,Austin,9854,2025/03/01,,,https://example.com/x27906,synthetic
+CRM,Seattle,6198.0,2023-11-09,0.76,Finance,https://example.com/x82535,
+UBER,Seattle,  7370  ,2023/06/21,,Finance,https://example.com/x65366,
+"Uber Technologies, Inc.",X,100,not-a-date,,Tech,,bad_date
+CRM,  ,880,10/17/2024,0.22,,https://example.com/x20244,synthetic
+Uber,  ,  2048  ,12/18/2023,,Tech,https://example.com/x97327,
+Google,NYC,"11,012",10/07/2024,0.32,,https://example.com/x95119,
+Alphabet,Austin,7579.0,11/15/2023,,,https://example.com/x96192,
+TESLA,Seattle,11127.0,"March 06, 2024",0.10,Tech,https://example.com/x75378,
+"Meta Platforms, Inc.",  ,10755.0,07/07/2024,0.05,Consumer,https://example.com/x21846,
+Meta,Remote,  456  ,08/03/2024,0.34,Tech,https://example.com/x95445,
+Meta Platforms Inc,Austin,  5028  ,"May 24, 2024",,Consumer,https://example.com/x5652,synthetic
+airbnb inc,Various,540,2024/11/14,,Tech,https://example.com/x17710,synthetic
+airbnb inc,Austin,1942,"June 28, 2023",0.38,Consumer,https://example.com/x89710,
+Salesforce,Seattle,3136,2023/03/10,,Tech,https://example.com/x78894,synthetic
+Lyft,SF Bay Area,7894,10-Sep-2023,,Other,https://example.com/x13892,synthetic
+Microsoft Corporation,Seattle,"4,115",2024-06-09,,,https://example.com/x42938,
+"Tesla, Inc.",X,100,not-a-date,,Tech,,bad_date
+Google LLC,NYC,1639,24-Jun-2023,0.53,Other,https://example.com/x76609,
+"Lyft, Inc.",Remote,2737.0,28-Mar-2023,,Finance,https://example.com/x77069,
+tesla motors,NYC,8706,09/19/2023,0.12,Finance,https://example.com/x81635,
+"Uber Technologies, Inc.",Remote,"9,019","February 27, 2024",,Consumer,https://example.com/x74823,synthetic
+tesla motors,NYC,1543,2024/03/20,,Other,https://example.com/x72660,
+salesforce.com,  ,  3947  ,2023/11/15,0.62,,https://example.com/x79790,
+Alphabet,  ,  4766  ,10/28/2024,0.27,Consumer,https://example.com/x24360,
+uber technologies,Remote,11980,"March 11, 2025",0.81,Tech,https://example.com/x32910,synthetic
+ABNB,Seattle,8497,"March 01, 2023",0.64,Other,https://example.com/x65304,
+Lyft,Austin,6080,2024-08-28,0.37,Other,https://example.com/x69598,
+LYFT INC,Austin,"9,065","May 04, 2023",0.15,,https://example.com/x28285,
+Amazon,Seattle,"5,736",2025-01-14,,Consumer,https://example.com/x74684,
+TESLA,Remote,10869,"June 03, 2024",,Finance,https://example.com/x99362,
+Google,Seattle,  6425  ,2024/06/13,0.43,Consumer,https://example.com/x95574,
+LYFT INC,  ,  5481  ,2023-01-15,,Consumer,https://example.com/x99961,
+microsoft corp.,Seattle,"2,870",05/27/2023,,Finance,https://example.com/x85600,
+tesla motors,Seattle,"1,615",2023-01-20,,Other,https://example.com/x96394,
+airbnb inc,Various,"7,360",02-Jul-2023,,Tech,https://example.com/x88839,
+Alphabet Inc.,  ,7205.0,"August 09, 2023",0.53,,https://example.com/x64874,
+Initech Solutions,NYC,289,30-Dec-2024,,Other,,no_mapping
+TESLA,Austin,4993,07-Feb-2024,,,https://example.com/x37208,synthetic
+Tesla,Various,1157,"June 06, 2024",0.01,Finance,https://example.com/x37262,synthetic
+CRM,NYC,N/A,15-Oct-2024,0.48,,https://example.com/x31068,
+ Tesla Inc ,SF Bay Area,6442,2023-10-08,0.04,Finance,https://example.com/x87466,synthetic
+Google LLC,  ,8972,2023/05/16,0.38,Consumer,https://example.com/x18366,
+Alphabet Inc.,NYC,  6697  ,2023/01/13,,Consumer,https://example.com/x61227,
+Airbnb Inc.,  ,  4494  ,2024-09-19,,Other,https://example.com/x28856,synthetic
+Hooli Labs,NYC,470,16-Feb-2023,,Other,,no_mapping
+LYFT,NYC,"9,823",2024/09/18,,Consumer,https://example.com/x49087,
+Amazon,Remote,  10094  ,2024-05-29,0.33,,https://example.com/x54726,
+LYFT INC,NYC,5606,2023-03-03,,,https://example.com/x50079,
+AMAZON.COM,Remote,10452,2023-07-23,0.52,Consumer,https://example.com/x73597,
+Microsoft,Various,  5498  ,12/10/2023,,Finance,https://example.com/x66637,synthetic
+LYFT INC,Various,"5,693",04-May-2024,,Other,https://example.com/x80139,synthetic
+MSFT,Austin,7934,"October 01, 2023",,,https://example.com/x43656,
+Tesla,  ,6963,2023-02-12,0.90,Tech,https://example.com/x24961,
+airbnb inc,NYC,645.0,2025-02-20,0.61,Tech,https://example.com/x48664,synthetic
+TESLA,SF Bay Area,"1,576","December 31, 2023",0.90,Other,https://example.com/x84508,synthetic
+Airbnb,Austin,  1773  ,"December 23, 2023",0.06,Other,https://example.com/x47250,synthetic
+AMZN,Seattle,6424,"November 20, 2024",0.81,Finance,https://example.com/x38040,
+Soylent Corp,NYC,210,03-Feb-2023,,Other,,no_mapping
+Microsoft,Austin,  8761  ,2023-08-23,,Other,https://example.com/x68296,
+Google LLC,NYC,  10397  ,01/15/2023,0.39,Finance,https://example.com/x13315,synthetic
+Lyft,  ,3935,09/27/2024,,Other,https://example.com/x21074,synthetic
+Tesla,SF Bay Area,  1960  ,"March 22, 2023",,,https://example.com/x11261,
+Amazon,Various,11099,"January 26, 2025",0.35,Finance,https://example.com/x22622,
+Apple Inc.,Austin,"8,450",06-Feb-2023,,Tech,https://example.com/x88502,synthetic
+Hooli Labs,NYC,33,"December 13, 2023",,Other,,no_mapping
+LYFT INC,NYC,  2657  ,"December 12, 2023",,Consumer,https://example.com/x52211,
+Microsoft,Various,2372,"November 08, 2023",0.55,,https://example.com/x21732,
+Microsoft,Seattle,3547.0,2023-10-13,0.35,,https://example.com/x88106,
+UBER,SF Bay Area,  5466  ,16-Dec-2023,0.53,Other,https://example.com/x62632,
+"Lyft, Inc.",SF Bay Area,3896,08/12/2023,0.51,Tech,https://example.com/x17181,
+GOOGL,Various,"8,652",11-Nov-2024,0.30,Other,https://example.com/x95663,
+Alphabet,  ,8314,"January 09, 2024",0.89,Other,https://example.com/x3628,
+LYFT INC,Various,1931.0,03/15/2024,,Other,https://example.com/x41447,synthetic
+amazon.com,SF Bay Area,"1,592","November 02, 2023",,Tech,https://example.com/x59845,
+"Uber Technologies, Inc.",Austin,"11,108",2024/08/26,,Tech,https://example.com/x57935,
+ Tesla Inc ,Remote,9314,03/19/2023,0.48,,https://example.com/x93889,
+apple inc.,SF Bay Area,11552,12/02/2024,0.80,,https://example.com/x49232,
+ABNB,NYC,2138.0,"August 05, 2024",,,https://example.com/x19430,
+Salesforce,Austin,5367,02/22/2024,0.75,,https://example.com/x18955,synthetic
+TESLA,  ,4999,2024-07-01,0.75,Tech,https://example.com/x93927,
+LYFT INC,  ,  5728  ,10/05/2023,0.00,Finance,https://example.com/x61417,synthetic
+Microsoft Corporation,Seattle,5006,2024-08-11,0.86,Consumer,https://example.com/x26046,
+GOOGL,Seattle,11583,15-Feb-2023,,,https://example.com/x58158,synthetic
+Hooli Labs,NYC,220,2025-03-18,,Other,,no_mapping
+Alphabet Inc.,SF Bay Area,  5456  ,02/21/2024,,,https://example.com/x77162,
+tesla motors,  ,"10,702",2023-09-24,0.72,,https://example.com/x66095,synthetic
+Uber,NYC,7245.0,2024/06/18,0.82,Consumer,https://example.com/x4082,
+Salesforce Inc.,NYC,418,2024/06/05,,Finance,https://example.com/x87345,
+Apple Inc.,Remote,767,11/12/2023,0.65,Finance,https://example.com/x71397,synthetic
+MICROSOFT CORP,  ,1040,2024/06/21,0.08,,https://example.com/x82423,synthetic
+Uber,Austin,10521,2023-11-13,0.63,Consumer,https://example.com/x81883,synthetic
+Alphabet,NYC,4321.0,2023/04/09,,Other,https://example.com/x55542,
+LYFT,Austin,5258,30-Sep-2024,0.70,,https://example.com/x46419,
+LYFT,NYC,9761,"February 10, 2024",0.66,Finance,https://example.com/x52411,
+Hooli Labs,NYC,364,"October 23, 2024",,Other,,no_mapping
+"Tesla, Inc.",  ,  7416  ,09/03/2024,0.39,Other,https://example.com/x86862,synthetic
+Salesforce,Seattle,4083.0,2023-12-04,,Tech,https://example.com/x46345,synthetic
+"Tesla, Inc.",  ,2228,26-Feb-2025,0.37,Consumer,https://example.com/x15465,
+Microsoft,  ,"9,346",10-Aug-2023,,Other,https://example.com/x42386,synthetic
+"Lyft, Inc.",Remote,  5734  ,16-Apr-2024,0.97,Finance,https://example.com/x64230,
+TESLA,Austin,3623,12/30/2024,0.25,Other,https://example.com/x4606,
+Apple Computer,Remote,651,2023-08-08,0.09,Consumer,https://example.com/x27026,
+Initech Solutions,NYC,330,2023-02-11,,Other,,no_mapping
+Salesforce,NYC,"5,666",2024-08-15,0.39,Consumer,https://example.com/x801,synthetic
+Uber,NYC,11579,2023-05-10,,Other,https://example.com/x27668,synthetic
+"Uber Technologies, Inc.",Seattle,"6,114",2023/11/11,,Tech,https://example.com/x62467,synthetic
+Amazon,Seattle,N/A,2025-01-14,,Consumer,https://example.com/x74684,
+APPLE INC,Various,4180,2024/05/15,,Tech,https://example.com/x69882,
+tesla motors,SF Bay Area,  3250  ,2024-08-23,0.84,,https://example.com/x92954,synthetic
+MSFT,Seattle,8485.0,"February 05, 2023",0.41,Finance,https://example.com/x23100,
+Lyft,Various,2055,2024-07-08,,Finance,https://example.com/x79336,synthetic
+Globex Industries,NYC,488,2024-03-10,,Other,,no_mapping
+"Uber Technologies, Inc.",Austin,11028,26-Mar-2025,0.07,,https://example.com/x27788,
+meta platforms,Remote,  1017  ,2023-10-31,,,https://example.com/x70012,
+Soylent Corp,NYC,385,2024-04-14,,Other,,no_mapping
+Salesforce Inc.,Seattle,614,06/01/2023,,Consumer,https://example.com/x61129,
+Soylent Corp,NYC,237,"February 10, 2023",,Other,,no_mapping
+ Tesla Inc ,Various,7655,"February 15, 2025",0.64,Finance,https://example.com/x58594,synthetic
+Initech Solutions,NYC,274,10-Nov-2023,,Other,,no_mapping
+MSFT,NYC,586,"January 31, 2025",,Tech,https://example.com/x81151,
+uber technologies,NYC,11670.0,01/28/2023,0.69,Tech,https://example.com/x32216,
+META,  ,8205.0,2023-07-04,0.78,Consumer,https://example.com/x16691,synthetic
+Soylent Corp,NYC,349,07/05/2023,,Other,,no_mapping
+AMZN,Various,"8,546",07/16/2023,0.09,Consumer,https://example.com/x5804,
+APPLE INC,NYC,2320,2024/03/17,0.24,,https://example.com/x63042,
+google llc,NYC,5001.0,2024-12-02,0.89,Finance,https://example.com/x10957,synthetic
+google llc,SF Bay Area,6579.0,11/04/2023,0.06,,https://example.com/x67968,synthetic
+LYFT INC,  ,"1,241",2025/01/10,0.41,Other,https://example.com/x37995,
+LYFT INC,Austin,8976,2023-05-04,,Tech,https://example.com/x27795,
+Google,NYC,10555,06-Jul-2023,0.47,Consumer,https://example.com/x12788,synthetic
+"Airbnb, Inc.",Various,  9713  ,"September 18, 2024",0.10,Tech,https://example.com/x454,
+MICROSOFT CORP,Seattle,"9,066",19-May-2024,,,https://example.com/x6268,
+Alphabet,Remote,"7,910",2024/07/23,,Finance,https://example.com/x41209,
+Soylent Corp,NYC,401,2024-10-27,,Other,,no_mapping
+Google,SF Bay Area,  10514  ,"October 11, 2023",0.18,Other,https://example.com/x4754,
+Meta,SF Bay Area,11191,"April 03, 2024",,Other,https://example.com/x62379,
+MICROSOFT CORP,NYC,4140,2024/02/03,0.12,Tech,https://example.com/x46727,
+Soylent Corp,NYC,270,"March 23, 2024",,Other,,no_mapping
+tesla motors,Remote,8493.0,24-Oct-2023,0.06,,https://example.com/x53067,synthetic
+meta platforms,Seattle,  2166  ,05/14/2024,0.62,Consumer,https://example.com/x56613,synthetic
+Microsoft Corporation,Austin,9294,11/23/2023,0.55,,https://example.com/x44031,synthetic
+"Tesla, Inc.",  ,  7664  ,2023-10-06,,Finance,https://example.com/x72433,
+microsoft corp.,Austin,  7670  ,02-Jul-2023,0.62,Consumer,https://example.com/x98793,
+LYFT INC,Various,9252,2023/07/30,0.41,Finance,https://example.com/x93584,
+Airbnb Inc.,Austin,349,2024/11/04,,Other,https://example.com/x23663,synthetic
+ Tesla Inc ,Austin,7468,"February 21, 2025",0.09,Consumer,https://example.com/x90063,
+CRM,Remote,237,2023/10/28,,Tech,https://example.com/x13542,
+"Lyft, Inc.",SF Bay Area,459.0,11/08/2023,,,https://example.com/a7,
+CRM,Remote,6209.0,25-Mar-2023,,Tech,https://example.com/x4149,synthetic
+  Meta Platforms  ,Remote,  10642  ,13-Jan-2024,0.35,Finance,https://example.com/x42140,
+Airbnb Inc.,Various,  4361  ,05/20/2023,0.59,Finance,https://example.com/x67567,
+"Lyft, Inc.",Remote,"1,026",04/08/2023,,,https://example.com/x16687,
+AMZN,SF Bay Area,11398,2023-09-08,,Consumer,https://example.com/x56343,
+google llc,  ,5399.0,2023-02-18,0.16,Other,https://example.com/x89567,
+LYFT,NYC,8596,2024-10-22,0.00,Other,https://example.com/x49773,
+Alphabet,Remote,"2,211",2023-02-01,0.86,Tech,https://example.com/x51886,synthetic
+Meta Platforms Inc,Austin,10205.0,2024/09/14,,Consumer,https://example.com/x70931,
+Google,Various,"2,576",2023-07-06,0.28,,https://example.com/x20768,
+salesforce.com,Austin,1132,05/17/2023,0.24,Finance,https://example.com/x82163,
+airbnb inc,SF Bay Area,"11,225",2023-11-07,0.97,,https://example.com/x97817,synthetic
+Meta,Remote,8279,05-Jan-2024,0.94,Tech,https://example.com/x64955,
+ABNB,Seattle,  9377  ,2024-06-18,,Tech,https://example.com/x28511,
+META,SF Bay Area,6049,11/17/2023,0.60,Tech,https://example.com/x56685,synthetic
+Microsoft Corporation,Seattle,8412,2024/05/21,0.41,Tech,https://example.com/x86331,
+APPLE INC,Various,7785,2023-05-20,0.09,,https://example.com/x82525,synthetic
+MICROSOFT CORP,SF Bay Area,9075,23-Jul-2023,0.33,Tech,https://example.com/x36915,
+Alphabet Inc.,Various,956,2023/05/15,0.35,,https://example.com/x32583,synthetic
+Salesforce Inc.,SF Bay Area,11338,2025-03-20,0.76,Finance,https://example.com/x71803,synthetic
+APPLE INC,Remote,10032.0,2024/08/22,0.96,Finance,https://example.com/x34896,
+"Lyft, Inc.",NYC,  6776  ,2024/06/01,0.64,Other,https://example.com/x18628,synthetic
+LYFT INC,Various,9981,"October 23, 2024",0.02,Tech,https://example.com/x3754,
+Salesforce,Remote,3605.0,02/21/2025,,,https://example.com/x74054,
+Salesforce,Remote,  1518  ,2023/06/20,0.60,,https://example.com/x83913,
+amazon.com,Various,7892,2025-01-15,,Tech,https://example.com/x17180,
+"Meta Platforms, Inc.",NYC,3730,"April 09, 2023",0.84,Finance,https://example.com/x86196,
+Tesla,Various,10846.0,"June 04, 2024",0.90,,https://example.com/x87570,
+Apple,Remote,  9872  ,2023/11/07,0.97,,https://example.com/x99772,
+APPLE INC,Remote,1868,23-Nov-2023,,Tech,https://example.com/x3981,synthetic
+Amazon.com Inc.,NYC,8264,21-Jun-2023,,,https://example.com/x34516,
+"Airbnb, Inc.",  ,7567,2023/12/11,0.19,Consumer,https://example.com/x73638,
+Apple Inc.,Austin,4690,08-Oct-2024,,Finance,https://example.com/x26345,
+"Airbnb, Inc.",Seattle,1249,2024-05-27,,Finance,https://example.com/x55677,
+uber technologies,Remote,"3,830",04/05/2023,0.40,Other,https://example.com/x43449,synthetic
+"Meta Platforms, Inc.",NYC,"8,980",23-Mar-2023,0.56,Consumer,https://example.com/x48376,synthetic
+Soylent Corp,NYC,66,2023-01-13,,Other,,no_mapping
+ Tesla Inc ,SF Bay Area,11324,"December 20, 2024",0.71,Tech,https://example.com/x83335,synthetic
+LYFT INC,SF Bay Area,  7309  ,2023-03-15,0.60,Finance,https://example.com/x6096,
+Microsoft Corporation,SF Bay Area,11697,02-Nov-2023,,Finance,https://example.com/x88980,
+Amazon.com Inc.,SF Bay Area,3624,"June 12, 2024",0.89,,https://example.com/x23947,
+ Tesla Inc ,Remote,10004,2024-08-02,0.85,,https://example.com/x32912,synthetic
+CRM,Seattle,  2437  ,2023/02/26,,Consumer,https://example.com/x72140,
+"Airbnb, Inc.",SF Bay Area,  2474  ,2024-07-09,,Other,https://example.com/x40579,synthetic
+  Meta Platforms  ,Seattle,8201,2023/10/31,,Tech,https://example.com/x96482,
+AMAZON.COM,Seattle,62,2024-04-08,0.90,Tech,https://example.com/x11246,synthetic
+amazon.com,Various,"5,390",2024-08-27,0.10,Other,https://example.com/x13604,
+Google LLC,Remote,2566,19-Mar-2024,0.70,Consumer,https://example.com/x87032,synthetic
+"Meta Platforms, Inc.",Various,  9524  ,02/01/2025,,Tech,https://example.com/x96366,
+CRM,NYC,6469,2024-01-17,0.45,,https://example.com/x37383,
+ABNB,SF Bay Area,5429,13-Jul-2023,0.48,,https://example.com/x74188,
+  Apple Inc  ,NYC,  6225  ,23-Feb-2024,,,https://example.com/x64102,
+Microsoft Corporation,Seattle,8365,2023-10-25,0.53,Other,https://example.com/x66931,
+salesforce.com,Austin,8711,"November 16, 2024",0.96,Other,https://example.com/x23383,synthetic
+UBER,Austin,  11942  ,03-May-2023,0.22,Tech,https://example.com/x58271,synthetic
+"Meta Platforms, Inc.",SF Bay Area,8353.0,22-May-2024,,Other,https://example.com/x1667,
+ABNB,  ,  2868  ,"February 11, 2023",,Other,https://example.com/x74830,
+  Meta Platforms  ,Remote,5614,2023/04/29,0.14,Consumer,https://example.com/x35691,synthetic
+GOOGL,SF Bay Area,  9081  ,05/18/2024,0.71,Other,https://example.com/x32054,
+Salesforce Inc.,  ,"4,245","January 19, 2025",0.86,Tech,https://example.com/x2698,
+"Meta Platforms, Inc.",Austin,8,10/01/2023,0.41,Other,https://example.com/x43911,
+UBER,SF Bay Area,8355.0,30-Mar-2024,,Consumer,https://example.com/x80494,
+Apple Computer,  ,N/A,05/11/2024,0.47,Finance,https://example.com/x56413,synthetic
+Microsoft Corporation,SF Bay Area,  1047  ,2023/02/09,0.64,Tech,https://example.com/x57466,
+Globex Industries,NYC,403,04/15/2024,,Other,,no_mapping
+Salesforce,Remote,6809.0,2024-04-28,,Finance,https://example.com/x18283,synthetic
+LYFT INC,Various,285.0,"March 14, 2025",,,https://example.com/x82765,synthetic
+amazon.com,Remote,576.0,17-Feb-2025,0.17,Other,https://example.com/x27430,
+"Airbnb, Inc.",  ,N/A,2025/02/23,0.22,Other,https://example.com/x62632,
+AMZN,Austin,2084,11-Feb-2023,,Consumer,https://example.com/x50829,
+Apple,Remote,N/A,03-Aug-2023,0.48,,https://example.com/x36897,
+Alphabet,Remote,11139,2023/12/06,,,https://example.com/x26084,
+Hooli Labs,NYC,425,01/26/2024,,Other,,no_mapping
+meta platforms,Various,5483.0,2024-05-21,,,https://example.com/x20647,
+Alphabet,NYC,"1,387",2024-10-13,,Tech,https://example.com/x77802,
+AMAZON.COM,Remote,8220,12/04/2024,0.73,Tech,https://example.com/x61618,
+Initech Solutions,NYC,35,02/22/2025,,Other,,no_mapping
+CRM,SF Bay Area,  6179  ,27-Jan-2024,0.59,Other,https://example.com/x36183,
+Soylent Corp,NYC,238,22-Sep-2023,,Other,,no_mapping
+Uber,NYC,"4,763",11/23/2024,,Finance,https://example.com/x31638,
+Soylent Corp,NYC,425,2024-01-10,,Other,,no_mapping
+Meta,X,100,not-a-date,,Tech,,bad_date
+tesla motors,Seattle,8159,08-Nov-2024,0.31,Finance,https://example.com/x83092,
+LYFT,X,100,not-a-date,,Tech,,bad_date
+amazon.com,SF Bay Area,6855,2024/07/31,0.97,Other,https://example.com/x31240,synthetic
+Tesla,Various,  11136  ,2025-01-31,,Tech,https://example.com/x58548,synthetic
+Google,  ,9562,2025/03/20,,Other,https://example.com/x18946,
+GOOGL,Remote,4405,2025-03-19,,Finance,https://example.com/x73355,
+LYFT INC,NYC,N/A,2024/08/11,,Consumer,https://example.com/x40209,
+Salesforce Inc.,Seattle,902,07/29/2023,0.84,Finance,https://example.com/x66383,synthetic
+GOOGL,Remote,8878,15-Nov-2023,,Other,https://example.com/x94398,
+Uber,SF Bay Area,3410,"August 30, 2024",0.96,Finance,https://example.com/x69067,synthetic
+CRM,SF Bay Area,10936,2023-02-03,0.94,Tech,https://example.com/x47196,synthetic
+TESLA,Various,"5,010",30-Jan-2024,,,https://example.com/x93886,
+Google,Seattle,  9283  ,19-Sep-2024,0.66,Tech,https://example.com/x25744,synthetic
+Meta Platforms Inc,Various,5759,12-Mar-2025,0.35,Finance,https://example.com/x72005,
+uber technologies,Austin,  7333  ,07-Oct-2024,0.22,Finance,https://example.com/x61767,
+Alphabet,Remote,173.0,13-Apr-2023,,Other,https://example.com/x39153,
+"Meta Platforms, Inc.",Remote,3736,"January 29, 2024",0.47,Tech,https://example.com/x48024,
+microsoft corp.,Remote,N/A,"July 30, 2024",0.12,Finance,https://example.com/x64796,
+APPLE INC,NYC,6432,2024/11/09,0.47,Finance,https://example.com/x63967,synthetic
+Hooli Labs,NYC,480,"January 06, 2023",,Other,,no_mapping
+ABNB,Seattle,  1773  ,17-Jan-2025,0.40,,https://example.com/x36485,
+microsoft corp.,SF Bay Area,11300,09-Oct-2024,,,https://example.com/x74250,
+Microsoft,NYC,  6967  ,2023-04-28,0.45,Other,https://example.com/x55473,
+"Airbnb, Inc.",Seattle,"10,338",2024-05-16,0.73,Consumer,https://example.com/x84851,
+LYFT INC,Various,  1589  ,07/24/2024,0.05,Tech,https://example.com/x68129,synthetic
+"Airbnb, Inc.",Various,N/A,22-Sep-2023,,Tech,https://example.com/x81045,
+microsoft corp.,Austin,8919,"December 31, 2023",0.25,Finance,https://example.com/x48968,
+ABNB,Remote,1971,2025-03-15,,Other,https://example.com/x42845,synthetic
+uber technologies,  ,7598,08-Mar-2024,0.92,Finance,https://example.com/x17228,
+GOOGL,Austin,11057.0,05/22/2023,0.14,Finance,https://example.com/x34839,
+CRM,Remote,"9,155",11-Jun-2024,0.28,Tech,https://example.com/x3225,
+META,SF Bay Area,10892,2023-08-07,0.82,Consumer,https://example.com/x29381,synthetic
+GOOGL,SF Bay Area,10543,2024-09-05,0.44,Consumer,https://example.com/x12156,
+LYFT,SF Bay Area,8131.0,2025/03/22,0.11,Consumer,https://example.com/x77691,synthetic
+"Uber Technologies, Inc.",Seattle,"6,644",2024-04-04,,Tech,https://example.com/x79751,
+Airbnb Inc.,Various,6853.0,2023/10/11,0.42,Other,https://example.com/x56900,
+Apple Computer,Seattle,  7367  ,2024-04-22,0.98,Consumer,https://example.com/x41782,
+LYFT INC,NYC,4649,2023/08/24,0.07,Consumer,https://example.com/x80751,
+Meta Platforms Inc,SF Bay Area,478.0,12/29/2023,,Tech,https://example.com/x33430,
+GOOGL,  ,4923,"August 23, 2024",0.74,,https://example.com/x16401,
+Salesforce Inc.,NYC,6217,12/06/2023,0.16,Consumer,https://example.com/x19669,
+Meta,Austin,107.0,27-Aug-2024,0.48,Consumer,https://example.com/x17192,
+Airbnb Inc.,Remote,  5649  ,"May 05, 2023",0.17,Tech,https://example.com/x2113,synthetic
+Microsoft Corporation,X,100,not-a-date,,Tech,,bad_date
+Microsoft Corporation,Seattle,6705,2025-02-01,,Other,https://example.com/x70581,
+airbnb inc,Seattle,5047,2023-07-01,0.24,Other,https://example.com/x32857,
+Google,NYC,5143,04/28/2023,0.91,,https://example.com/x46561,
+ABNB,Seattle,  10520  ,09/17/2023,0.19,Other,https://example.com/x59397,
+UBER,Various,6824,2024/09/03,,Consumer,https://example.com/x99504,
+Amazon.com Inc.,X,100,not-a-date,,Tech,,bad_date
+"Meta Platforms, Inc.",Various,695,09-Aug-2023,0.33,Other,https://example.com/x79584,
+Alphabet Inc.,NYC,8110.0,"March 14, 2025",0.05,Other,https://example.com/x34354,synthetic
+amazon.com,  ,  4446  ,03/12/2025,,Consumer,https://example.com/x71083,synthetic
+Salesforce Inc.,NYC,  8273  ,2024/12/14,0.27,,https://example.com/x62780,
+Amazon,  ,"1,606",2023/03/24,,Other,https://example.com/x31880,synthetic
+META,Austin,179.0,18-Jun-2024,,Finance,https://example.com/x27954,synthetic
+Apple,  ,3162.0,24-Aug-2024,0.95,Other,https://example.com/x29544,
+airbnb inc,Remote,11845,2023/11/03,0.55,Other,https://example.com/x94870,
+airbnb inc,NYC,"5,306",2024-03-31,0.45,,https://example.com/x77596,
+CRM,Remote,3261.0,2023/09/05,0.88,Consumer,https://example.com/x82502,synthetic
+apple inc.,SF Bay Area,"4,878",03/20/2023,,Tech,https://example.com/x57643,synthetic
+APPLE INC,Seattle,5067,28-Jan-2025,,Finance,https://example.com/x81042,
+CRM,Austin,8678,"December 09, 2023",0.00,,https://example.com/x27017,synthetic
+Initech Solutions,NYC,143,2023-03-03,,Other,,no_mapping
+AMAZON.COM,  ,4819,07-May-2024,0.62,Finance,https://example.com/x80627,
+uber technologies,Seattle,"7,906",07/21/2023,0.59,,https://example.com/x38577,
+LYFT,Various,"9,623",05/16/2023,,Finance,https://example.com/x45900,
+Salesforce,NYC,N/A,06-May-2024,0.50,,https://example.com/x12537,
+  Apple Inc  ,NYC,"5,514",2025-02-02,,Tech,https://example.com/x34887,synthetic
+apple inc.,SF Bay Area,"4,785",12/12/2024,,Consumer,https://example.com/x76297,
+Google,NYC,838,14-Sep-2024,,Consumer,https://example.com/x67786,synthetic
+Meta,Seattle,6541.0,09/23/2023,0.86,Consumer,https://example.com/x81057,
+Salesforce,Various,7290.0,11/23/2023,,Finance,https://example.com/x83564,
+META,SF Bay Area,3744,03/13/2025,,,https://example.com/x79602,
+LYFT INC,Various,5663.0,04-May-2024,,Other,https://example.com/x80139,synthetic
+Lyft,Austin,6113,2024-08-28,0.37,Other,https://example.com/x69598,
+"Uber Technologies, Inc.",Various,  3277  ,2025/03/18,0.25,Tech,https://example.com/x46828,
+Globex Industries,NYC,493,2023-10-23,,Other,,no_mapping
+Google LLC,Austin,6778,2023-11-29,,Tech,https://example.com/x755,
+Airbnb Inc.,Remote,  558  ,"July 24, 2023",,Tech,https://example.com/x50736,synthetic
+Alphabet,Remote,1998.0,01/18/2024,,Finance,https://example.com/x91746,
+Initech Solutions,NYC,357,2024-01-18,,Other,,no_mapping
+"Meta Platforms, Inc.",SF Bay Area,748.0,2024/01/04,,Finance,https://example.com/x74451,
+Salesforce,Seattle,"4,968",2023-07-05,,,https://example.com/x66526,
+Salesforce Inc.,  ,11676,2023/02/07,0.84,Tech,https://example.com/x26437,
+Meta Platforms Inc,SF Bay Area,5032,"February 22, 2023",,Consumer,https://example.com/x30424,
+Alphabet Inc.,Austin,444.0,31-Jan-2024,0.75,Finance,https://example.com/x1160,
+Google,SF Bay Area,  2289  ,2023-10-15,0.46,Consumer,https://example.com/x80558,synthetic
+Microsoft Corporation,  ,6393,2023-07-28,,Consumer,https://example.com/x30541,
+LYFT,Remote,115,19-Mar-2023,0.91,,https://example.com/x96779,synthetic
+Airbnb,Remote,N/A,2023/08/27,0.44,Finance,https://example.com/x15489,synthetic
+AMZN,NYC,8086,05/19/2024,,Finance,https://example.com/x92440,
+Hooli Labs,NYC,356,2023-06-19,,Other,,no_mapping
+TESLA,Remote,2310,"August 16, 2024",,Other,https://example.com/x54502,synthetic
+  Apple Inc  ,NYC,2603,2023/03/12,0.01,Finance,https://example.com/x1359,
+UBER,SF Bay Area,3277,2024/07/30,0.16,Consumer,https://example.com/x78252,
+Meta Platforms Inc,Remote,"11,776",2024-07-25,0.68,Finance,https://example.com/x81020,
+"Uber Technologies, Inc.",  ,596,2023-07-23,0.85,Finance,https://example.com/x2163,
+Amazon,Seattle,5568,22-Aug-2024,0.83,Other,https://example.com/x19770,
+Meta,NYC,4080,2024/03/14,,Consumer,https://example.com/x98734,
+  Apple Inc  ,Austin,787,"February 20, 2025",0.73,Finance,https://example.com/x89703,synthetic
+Uber,Various,2467,2024/02/09,1.00,,https://example.com/x45634,
+"Uber Technologies, Inc.",Remote,8864.0,10-Jan-2024,,,https://example.com/x52926,
+Apple Inc.,Various,  8969  ,2024/10/15,0.87,Tech,https://example.com/x91299,
+Apple Computer,SF Bay Area,9113,15-Oct-2024,,Consumer,https://example.com/x12393,
+salesforce.com,Seattle,1365,29-Apr-2024,0.73,,https://example.com/x89379,
+Salesforce,NYC,11,"March 19, 2025",0.10,Other,https://example.com/x46995,
+Hooli Labs,NYC,46,2024-07-15,,Other,,no_mapping
+LYFT,Remote,7347,"March 15, 2024",,Consumer,https://example.com/x74802,synthetic
+"Meta Platforms, Inc.",Remote,5462.0,2023/07/10,,Finance,https://example.com/x6749,
+"Lyft, Inc.",Various,8984,"January 23, 2025",0.56,,https://example.com/x37598,
+"Lyft, Inc.",  ,2827,"May 25, 2023",,Other,https://example.com/x67554,synthetic
+Apple Computer,Seattle,"7,378",2024-04-22,0.98,Consumer,https://example.com/x41782,
+microsoft corp.,  ,7180.0,01/18/2023,0.09,Other,https://example.com/x62887,synthetic
+APPLE INC,NYC,8390,2023/11/18,0.73,Finance,https://example.com/x46898,
+amazon.com,Remote,5612,2024/01/30,0.17,,https://example.com/x6238,
+Airbnb Inc.,Various,"4,508",07/16/2023,,Consumer,https://example.com/x88891,
+Uber,Austin,8008,09-May-2023,,Tech,https://example.com/x29321,
+Airbnb,SF Bay Area,"1,664",2023/08/30,0.27,,https://example.com/x77941,
+Soylent Corp,NYC,358,12/19/2024,,Other,,no_mapping
+amazon.com,Various,7249,2024/11/08,0.20,Other,https://example.com/x25955,
+Uber,Remote,10158,2024/07/09,0.35,Tech,https://example.com/x1083,
+  Meta Platforms  ,SF Bay Area,7518,01/07/2024,0.65,,https://example.com/x33599,synthetic
+Lyft,Seattle,7400,01/29/2023,0.68,Consumer,https://example.com/x32426,
+Microsoft Corporation,  ,"5,691",09-Apr-2023,0.61,Finance,https://example.com/x61185,
+Google LLC,Seattle,6789,10-Aug-2023,0.01,Finance,https://example.com/x85148,
+Hooli Labs,NYC,211,10-Jun-2023,,Other,,no_mapping
+AMZN,  ,  11453  ,2023-06-06,0.03,Consumer,https://example.com/x13846,
+Uber,Austin,1100.0,2025/01/26,0.03,Finance,https://example.com/x89128,
+Microsoft Corporation,Various,"10,912",2025-01-31,,Consumer,https://example.com/x70131,synthetic
+"Tesla, Inc.",Remote,N/A,2023/04/28,0.70,Other,https://example.com/x45793,
+Alphabet Inc.,Austin,9723,"February 12, 2024",,Finance,https://example.com/x43952,
+Tesla,Seattle,  11514  ,18-Sep-2023,,,https://example.com/x84177,synthetic
+uber technologies,Remote,7914,2023-01-23,,Other,https://example.com/x39518,
+ABNB,Seattle,6355,2023-01-23,,,https://example.com/x40916,
+  Apple Inc  ,X,100,not-a-date,,Tech,,bad_date
+"Uber Technologies, Inc.",SF Bay Area,1195,05-May-2024,0.14,Other,https://example.com/x42213,synthetic
+Uber,  ,9580,2024/02/04,,Tech,https://example.com/x4215,
+Uber,  ,2120,2024/04/02,0.40,Finance,https://example.com/x36266,
+Microsoft Corporation,NYC,  8950  ,12-Dec-2023,0.57,Consumer,https://example.com/x77062,
+tesla motors,Various,N/A,07-Dec-2024,,,https://example.com/x61017,
+ABNB,Seattle,8538,"March 01, 2023",0.64,Other,https://example.com/x65304,
+LYFT,Seattle,2122,08/03/2024,0.06,Other,https://example.com/x12500,
+LYFT,Seattle,  1893  ,2024-08-18,,Tech,https://example.com/x89254,synthetic
+LYFT,Various,"9,139",2025-03-10,0.58,Finance,https://example.com/x29756,synthetic
+Alphabet Inc.,  ,4113,"January 02, 2024",0.49,Finance,https://example.com/x63680,synthetic
+Tesla,SF Bay Area,11387,2025/03/21,0.83,Consumer,https://example.com/x51770,
+ Tesla Inc ,NYC,  1311  ,"November 08, 2024",,Finance,https://example.com/x96519,
+LYFT INC,Various,"4,843","March 13, 2024",0.71,Finance,https://example.com/x75481,
+Alphabet Inc.,Various,"6,749",2025-01-25,,Consumer,https://example.com/x37280,
+LYFT INC,Seattle,1560,"February 14, 2023",0.03,Tech,https://example.com/x52988,
+"Uber Technologies, Inc.",Seattle,10902,2023-09-24,,Tech,https://example.com/x6403,synthetic
+MSFT,  ,1316.0,"January 15, 2023",,Finance,https://example.com/x64351,
+Salesforce Inc.,NYC,10289.0,12/24/2024,0.75,Consumer,https://example.com/x2950,
+MSFT,X,100,not-a-date,,Tech,,bad_date
+amazon.com,NYC,11955,"March 14, 2025",0.08,Tech,https://example.com/x53695,
+Apple,NYC,  613  ,2024/11/24,,Tech,https://example.com/x11096,
+Airbnb,Various,N/A,06/06/2023,,Tech,https://example.com/x26331,synthetic
+Google LLC,NYC,9264,2024-08-23,0.20,Other,https://example.com/x51585,
+ Tesla Inc ,Austin,"3,221","April 01, 2024",0.26,Consumer,https://example.com/x18381,
+Meta,Various,4422,2024/11/10,0.87,Consumer,https://example.com/x59242,
+Apple Computer,  ,"5,470",06/19/2024,0.52,Consumer,https://example.com/x2805,
+LYFT,Various,1412.0,"July 10, 2024",0.34,Consumer,https://example.com/x78615,
+UBER,Austin,  9246  ,22-Sep-2024,0.08,Other,https://example.com/x28785,
+airbnb inc,Seattle,4500,17-Aug-2023,,,https://example.com/x89280,synthetic
+  Meta Platforms  ,Seattle,5687.0,02/28/2025,,Finance,https://example.com/x11452,
+Salesforce Inc.,NYC,10217,03/01/2025,0.30,Consumer,https://example.com/x39804,
+Tesla,Remote,  8952  ,"February 07, 2023",,Other,https://example.com/x29431,
+"Uber Technologies, Inc.",SF Bay Area,942,03/09/2024,,Finance,https://example.com/x75087,synthetic
+meta platforms,  ,805,"January 02, 2023",0.05,Finance,https://example.com/x23400,
+Airbnb,SF Bay Area,9145,2024/06/10,0.43,,https://example.com/x37102,
+tesla motors,Various,11826,13-Dec-2024,0.31,,https://example.com/x34643,
+Meta,  ,"8,187",2024/11/13,0.19,Other,https://example.com/x83703,
+MICROSOFT CORP,Remote,7755.0,02/12/2023,,Tech,https://example.com/x87137,
+"Airbnb, Inc.",Austin,4282,08/07/2023,,Consumer,https://example.com/x78099,synthetic
+Tesla,Remote,  11600  ,2023/02/16,0.59,Consumer,https://example.com/x71736,
+ABNB,SF Bay Area,9760,"September 18, 2023",,Tech,https://example.com/x90666,
+  Apple Inc  ,NYC,4617.0,02/13/2024,,Consumer,https://example.com/x127,
+airbnb inc,Remote,2146,2025-02-25,0.95,,https://example.com/x12583,
+TESLA,  ,961,10-Dec-2023,0.71,Other,https://example.com/x3566,
+META,Remote,522,"February 11, 2025",,Other,https://example.com/x34048,synthetic
+amazon.com,Various,N/A,2023-09-12,0.99,Consumer,https://example.com/x87892,
+Alphabet,Various,  7498  ,"July 30, 2023",0.06,Finance,https://example.com/x75169,
+Google LLC,Remote,11808,"September 09, 2023",0.46,Tech,https://example.com/x99845,
+uber technologies,Remote,2191,"February 10, 2025",0.20,Other,https://example.com/x28777,
+Airbnb,  ,"3,320","June 10, 2024",0.48,Finance,https://example.com/x584,
+uber technologies,NYC,2144.0,"October 16, 2024",0.51,Tech,https://example.com/x74135,synthetic
+Amazon,Austin,"11,165",04-Sep-2023,,Consumer,https://example.com/x58150,
+Meta Platforms Inc,Remote,6037,09/21/2024,0.01,Other,https://example.com/x64993,
+Uber,Seattle,7849.0,17-Nov-2023,,Other,https://example.com/x25528,
+CRM,  ,  709  ,2025/02/27,,Finance,https://example.com/x81790,
+Uber,Austin,1299,2023/11/01,0.16,,https://example.com/x91643,
+Alphabet,SF Bay Area,N/A,"January 26, 2023",,,https://example.com/x65121,synthetic
+META,Various,9154,08-Oct-2024,0.73,Tech,https://example.com/x88922,synthetic
+UBER,NYC,"2,110",2023-07-09,,Consumer,https://example.com/x25685,synthetic
+tesla motors,Various,"10,066",07-Dec-2024,,,https://example.com/x61017,
+Meta Platforms Inc,NYC,10210,2024-08-27,,Finance,https://example.com/x67179,synthetic
+Microsoft Corporation,  ,1419,"November 27, 2023",,Other,https://example.com/x92396,
+Microsoft Corporation,Various,  8644  ,2024-06-19,,Tech,https://example.com/x23026,synthetic
+MSFT,Austin,11064,"September 15, 2023",0.35,Tech,https://example.com/x33047,
+Globex Industries,NYC,56,"June 23, 2024",,Other,,no_mapping
+Google,X,100,not-a-date,,Tech,,bad_date
+Hooli Labs,NYC,223,"March 05, 2023",,Other,,no_mapping
+Microsoft Corporation,Austin,  6247  ,"April 20, 2023",0.71,Finance,https://example.com/x7865,
+Apple Computer,Remote,  7823  ,2024/01/27,0.40,,https://example.com/x28148,synthetic
+Apple Inc.,Remote,8851,10-Apr-2023,0.50,Tech,https://example.com/x89182,synthetic
+Salesforce,Various,N/A,02/05/2023,,Tech,https://example.com/x28919,
+apple inc.,NYC,"5,787",2024/11/20,0.67,,https://example.com/x31626,
+TESLA,NYC,  10838  ,"July 07, 2024",,Finance,https://example.com/x80852,synthetic
+CRM,SF Bay Area,10977,2023-02-03,0.94,Tech,https://example.com/x47196,synthetic
+Airbnb Inc.,NYC,"8,750",2023/02/22,0.95,Consumer,https://example.com/x94000,
+tesla motors,Austin,  10379  ,2023/06/27,0.88,Other,https://example.com/x74751,
+"Uber Technologies, Inc.",NYC,  3263  ,2023/01/09,0.33,,https://example.com/x35366,
+UBER,Austin,  8048  ,2023-04-26,0.13,Other,https://example.com/x66951,
+CRM,Austin,4558,05/25/2023,0.64,Consumer,https://example.com/x34148,synthetic
+salesforce.com,SF Bay Area,3363,04-Jun-2024,0.56,Finance,https://example.com/x80276,
+Airbnb Inc.,Remote,1470,2023-02-04,,,https://example.com/x67537,
+ Tesla Inc ,Seattle,7909,2025/03/15,0.57,,https://example.com/x49940,
+airbnb inc,Various,"2,214","September 30, 2023",0.94,,https://example.com/x50637,synthetic
+CRM,SF Bay Area,"2,194",2025-01-08,0.95,Consumer,https://example.com/x61246,synthetic
+salesforce.com,  ,4250,20-May-2024,0.53,Consumer,https://example.com/x71625,
+Soylent Corp,NYC,282,2024-07-15,,Other,,no_mapping
+Apple,Remote,11464,2024-07-27,,,https://example.com/x70914,
+"Lyft, Inc.",Various,"8,352",2023-10-18,0.34,Other,https://example.com/x5172,
+AMZN,Seattle,  4808  ,2024-04-09,0.14,Tech,https://example.com/x6904,
+Airbnb Inc.,Seattle,8972,26-Sep-2024,0.73,,https://example.com/x12925,synthetic
+ Tesla Inc ,NYC,6695,02/01/2025,0.02,Other,https://example.com/x42642,
+TESLA,NYC,  8508  ,03/14/2024,,Tech,https://example.com/x2378,
+tesla motors,Seattle,126,"May 24, 2024",,Consumer,https://example.com/x69998,
+Salesforce,Remote,"5,258",09/11/2024,0.72,,https://example.com/x27022,
+Google LLC,Seattle,7189,2023/10/30,,Tech,https://example.com/x18173,synthetic
+AMAZON.COM,Various,"8,043",2024-06-30,0.91,Tech,https://example.com/x90875,
+LYFT,  ,7310,10/20/2023,0.50,Consumer,https://example.com/x9383,
+Meta,Remote,3052,2023-07-17,0.62,Other,https://example.com/x60817,
+Globex Industries,NYC,94,"October 07, 2024",,Other,,no_mapping
+Apple,SF Bay Area,  11171  ,10/23/2023,,,https://example.com/x16164,synthetic
+"Tesla, Inc.",Seattle,9883,2024/07/19,0.89,Consumer,https://example.com/x87507,
+Apple,  ,"8,050",2024/11/27,,Finance,https://example.com/x29963,
+salesforce.com,  ,3838,"August 23, 2023",0.14,,https://example.com/x18622,
+AMZN,  ,"5,713","March 12, 2023",0.58,Finance,https://example.com/x85586,
+uber technologies,  ,3600,2023/08/20,0.05,,https://example.com/x18718,
+Uber,Seattle,"6,227",2023-02-06,0.42,Consumer,https://example.com/x85178,
+Microsoft Corporation,NYC,6496,2023/03/16,,,https://example.com/x54463,
+  Apple Inc  ,Seattle,"7,941",2024/05/04,0.65,Finance,https://example.com/x23598,
+Tesla,Seattle,6894,11/26/2024,0.93,Tech,https://example.com/x31363,
+ABNB,  ,3712.0,"June 11, 2024",0.90,Other,https://example.com/x68922,
+Alphabet,SF Bay Area,  3364  ,2024-04-24,0.35,Other,https://example.com/x32902,
+"Tesla, Inc.",Seattle,N/A,16-Mar-2025,0.01,Finance,https://example.com/x48504,
+"Tesla, Inc.",  ,2482,"October 02, 2024",,,https://example.com/x88831,
+AMZN,Various,3030,2023-10-02,,Tech,https://example.com/x30105,
+Google,Austin,11966,2024/10/23,,Other,https://example.com/x48261,
+Uber,SF Bay Area,4243,04-Jan-2023,0.11,Consumer,https://example.com/x53436,synthetic
+"Tesla, Inc.",  ,7533.0,03-Jul-2024,,Other,https://example.com/x54193,
+AMAZON.COM,Various,3771.0,2023-07-17,,,https://example.com/x19805,synthetic
+Apple,Remote,3905,2024-12-30,0.31,,https://example.com/x45975,
+salesforce.com,Various,6754,24-Aug-2023,0.87,Other,https://example.com/x1871,
+"Lyft, Inc.",SF Bay Area,2449,2024-12-04,0.27,Tech,https://example.com/x2924,
+TESLA,Remote,1307,2024/04/13,,Tech,https://example.com/x98003,
+TESLA,Remote,"8,081",2024-05-10,0.37,,https://example.com/x57959,
+amazon.com,  ,1554,30-Mar-2024,,,https://example.com/x62860,
+Lyft,Various,1786,04/10/2024,0.18,Other,https://example.com/x33078,
+Apple Inc.,Remote,11549,2023/11/12,,Finance,https://example.com/x30858,
+"Airbnb, Inc.",SF Bay Area,"1,682","March 18, 2023",0.98,,https://example.com/x45403,synthetic
+Apple,Austin,6359,"March 21, 2023",0.62,Other,https://example.com/x68650,synthetic
+APPLE INC,NYC,1319.0,06/07/2023,0.90,Tech,https://example.com/x9765,synthetic
+Globex Industries,NYC,457,08-Jun-2023,,Other,,no_mapping
+amazon.com,Austin,  1489  ,"June 18, 2024",0.79,Other,https://example.com/x45985,
+Meta,Remote,N/A,2024/11/04,,Tech,https://example.com/x70556,
+LYFT,Remote,"8,445",29-Nov-2024,,,https://example.com/x20275,
+ Tesla Inc ,Seattle,"10,999",2023-08-24,,Tech,https://example.com/x35355,
+salesforce.com,  ,"8,104",2024/04/24,0.73,,https://example.com/x39492,
+Alphabet Inc.,Various,11296,01-Jan-2025,0.60,,https://example.com/x16642,
+  Meta Platforms  ,Austin,  1855  ,04-Jun-2024,0.54,Consumer,https://example.com/x31709,
+Microsoft Corporation,  ,4945,04/16/2024,0.43,Tech,https://example.com/x62253,
+Apple Computer,NYC,8291,11/04/2024,,Tech,https://example.com/x90988,synthetic
+Alphabet,Seattle,"11,571",2024-03-24,0.50,Consumer,https://example.com/x55990,synthetic
+AMAZON.COM,NYC,3289,25-Jun-2024,,Finance,https://example.com/x14843,
+google llc,Various,9767,10/27/2024,0.55,Consumer,https://example.com/x53084,synthetic
+META PLATFORMS,Seattle,"8,118",2023-08-27,,Tech,https://example.com/x45026,
+  Meta Platforms  ,Seattle,683,28-Jan-2023,,Finance,https://example.com/x160,
+APPLE INC,  ,7833,08/17/2023,,,https://example.com/x97937,
+Microsoft Corporation,SF Bay Area,"9,530",07/15/2023,,Other,https://example.com/x82204,
+ABNB,NYC,  2961  ,2024-11-19,,Other,https://example.com/x26293,
+meta platforms,  ,2267,2024/03/21,0.75,Tech,https://example.com/x37566,
+meta platforms,Seattle,243,04-Oct-2024,0.12,Consumer,https://example.com/x46136,
+Tesla,Remote,4316,23-Jan-2024,0.29,Other,https://example.com/x15484,
+Google,Seattle,"2,748","March 11, 2024",,Consumer,https://example.com/x54439,
+tesla motors,Various,1635,2024-02-17,,Finance,https://example.com/x21009,
+CRM,  ,N/A,2023-02-06,0.40,Tech,https://example.com/x12882,
+LYFT INC,Remote,  4591  ,10-Aug-2023,,Other,https://example.com/x76795,
+Google,SF Bay Area,7388,"December 24, 2024",,,https://example.com/x16231,
+"Tesla, Inc.",Seattle,  7990  ,2023-05-17,0.82,Consumer,https://example.com/x50636,
+Google LLC,Various,N/A,"October 03, 2023",0.27,Other,https://example.com/x46331,
+"Tesla, Inc.",Seattle,  5089  ,01/22/2024,,,https://example.com/x73952,
+apple inc.,Seattle,10367,07/04/2024,0.80,,https://example.com/x63590,synthetic
+salesforce.com,NYC,3555.0,"March 26, 2023",0.18,Tech,https://example.com/x78110,
+google llc,Seattle,9722,"January 08, 2023",0.35,Tech,https://example.com/x19181,
+meta platforms,NYC,8284,02-Feb-2023,,Tech,https://example.com/x92417,synthetic
+ABNB,NYC,3959.0,2023-07-13,0.79,Consumer,https://example.com/x23079,
+MSFT,Seattle,N/A,2024/12/03,0.89,,https://example.com/x59344,
+Amazon.com Inc.,SF Bay Area,  2629  ,2024-04-12,0.41,Tech,https://example.com/x28053,
+google llc,Austin,"3,453",2024-10-21,0.14,Consumer,https://example.com/x91595,
+META PLATFORMS,SF Bay Area,6642,11/12/2024,,,https://example.com/x40089,synthetic
+MSFT,SF Bay Area,  983  ,2024/01/28,,Other,https://example.com/x44220,
+Globex Industries,NYC,478,13-Apr-2023,,Other,,no_mapping
+microsoft corp.,NYC,11052,"April 03, 2024",0.76,Consumer,https://example.com/x16725,
+"Lyft, Inc.",Seattle,  11608  ,03/20/2024,0.95,,https://example.com/x24150,
+uber technologies,NYC,  4530  ,2023/08/31,0.51,Finance,https://example.com/x57762,
+MICROSOFT CORP,  ,"1,410",07/11/2024,0.09,Consumer,https://example.com/x2569,
+Amazon,NYC,4928,2023-12-25,,Tech,https://example.com/x81377,
+Amazon,  ,8762,"October 04, 2023",0.61,Other,https://example.com/x72855,synthetic
+Alphabet Inc.,NYC,3679.0,29-Dec-2024,,,https://example.com/x13146,synthetic
+uber technologies,Seattle,10426,11/05/2024,0.25,Finance,https://example.com/x95495,
+Apple Computer,Seattle,3128.0,02/14/2023,,,https://example.com/x11346,synthetic
+AMZN,Austin,"10,261",2023/04/09,0.76,Consumer,https://example.com/x61137,
+Amazon,SF Bay Area,N/A,10-Sep-2024,0.15,Finance,https://example.com/x18418,
+Microsoft Corporation,NYC,11280,13-Aug-2024,0.27,Other,https://example.com/x73139,
+Google,Various,2535,2023-07-06,0.28,,https://example.com/x20768,
+MICROSOFT CORP,Austin,  3159  ,2024-12-09,0.77,Tech,https://example.com/x63407,
+Soylent Corp,NYC,36,2023-03-19,,Other,,no_mapping
+LYFT INC,Seattle,8906,2023/09/10,0.55,,https://example.com/x40222,synthetic
+"Uber Technologies, Inc.",Seattle,"10,710",2023/04/26,,,https://example.com/x35303,
+AMZN,Remote,"11,670",12/22/2023,,Tech,https://example.com/x68743,synthetic
+"Meta Platforms, Inc.",Seattle,N/A,05/14/2023,,Tech,https://example.com/x87825,
+  Meta Platforms  ,SF Bay Area,N/A,2023/01/11,,Finance,https://example.com/x59056,
+Microsoft Corporation,Austin,"10,383",2024-05-28,0.49,Tech,https://example.com/x53996,
+ Tesla Inc ,Austin,9621,17-Apr-2023,,Tech,https://example.com/x79500,synthetic
+Tesla,SF Bay Area,11478.0,01/07/2024,0.60,Consumer,https://example.com/x69783,
+Apple Inc.,Remote,6256.0,2024/03/13,,Tech,https://example.com/x5552,
+APPLE INC,NYC,N/A,03-Apr-2024,0.38,Tech,https://example.com/x32936,
+Globex Industries,NYC,432,"February 14, 2024",,Other,,no_mapping
+GOOGL,X,100,not-a-date,,Tech,,bad_date
+"Airbnb, Inc.",X,100,not-a-date,,Tech,,bad_date
+Soylent Corp,NYC,441,03/16/2024,,Other,,no_mapping
+META PLATFORMS,NYC,"10,851",2023-09-23,,,https://example.com/x3648,synthetic
+uber technologies,  ,  664  ,2023-03-25,,Finance,https://example.com/x88445,
+apple inc.,NYC,2819,26-Feb-2025,,Tech,https://example.com/x39753,synthetic
+Airbnb,Various,  5368  ,18-Feb-2024,0.56,Finance,https://example.com/x1253,synthetic
+Alphabet,Remote,N/A,"June 14, 2024",,,https://example.com/x24011,synthetic
+LYFT,  ,6701,"November 04, 2024",0.19,,https://example.com/x75052,
+UBER,  ,  5821  ,18-Oct-2023,0.06,,https://example.com/x68515,
+UBER,  ,"11,215",06/10/2023,0.98,,https://example.com/x25349,synthetic
+Microsoft Corporation,Remote,"3,310",2023-02-04,,Consumer,https://example.com/x41980,
+Amazon.com Inc.,NYC,9797,"June 11, 2024",0.37,Consumer,https://example.com/x56936,
+Salesforce Inc.,Austin,  8995  ,18-May-2023,,Finance,https://example.com/x76160,synthetic
+Airbnb Inc.,Remote,N/A,2024-03-01,,Finance,https://example.com/x40974,synthetic
+APPLE INC,Remote,4796,"December 08, 2024",,Finance,https://example.com/x51803,synthetic
+MSFT,SF Bay Area,5309.0,"May 07, 2023",0.23,Tech,https://example.com/x1308,
+Initech Solutions,NYC,261,"April 30, 2023",,Other,,no_mapping
+MSFT,Various,  10168  ,2023/05/28,,Other,https://example.com/x92953,
+MSFT,Seattle,7430,"August 13, 2024",0.92,Finance,https://example.com/x25133,
+Amazon.com Inc.,SF Bay Area,6205.0,22-Jul-2024,,,https://example.com/x16703,
+Salesforce Inc.,Remote,9043.0,02/03/2024,,Finance,https://example.com/x10174,
+Apple Computer,SF Bay Area,"2,359","July 25, 2024",0.57,,https://example.com/x17381,
+Hooli Labs,NYC,243,20-Nov-2024,,Other,,no_mapping
+Salesforce,Various,4185.0,2024/01/06,,Finance,https://example.com/x59614,
+Apple Computer,SF Bay Area,9959,2024/07/02,,Other,https://example.com/x94321,
+meta platforms,Austin,5744.0,2024/07/22,0.45,Finance,https://example.com/x32148,
+Apple Computer,Various,  11364  ,2024-03-17,,Tech,https://example.com/x49011,
+"Lyft, Inc.",SF Bay Area,11771,"April 12, 2023",,Finance,https://example.com/x44376,
+Meta Platforms Inc,NYC,  3932  ,"June 12, 2024",,Tech,https://example.com/x43761,synthetic
+microsoft corp.,X,100,not-a-date,,Tech,,bad_date
+GOOGL,Remote,6924.0,2023/12/20,,Consumer,https://example.com/x29979,synthetic
+amazon.com,Austin,10579,"July 13, 2024",,Other,https://example.com/x16101,synthetic
+ABNB,  ,3168,"March 11, 2025",0.37,Consumer,https://example.com/x20595,
+GOOGL,NYC,"6,257",09-Mar-2025,,Other,https://example.com/x23006,synthetic
+Airbnb,Seattle,4008,03-Jun-2023,,,https://example.com/x58274,
+MSFT,NYC,"11,360",10/01/2023,0.92,Finance,https://example.com/x47275,
+uber technologies,  ,1745,2023-04-11,,,https://example.com/x52749,
+Globex Industries,NYC,449,20-Dec-2024,,Other,,no_mapping
+uber technologies,Seattle,  805  ,05/08/2023,0.69,Consumer,https://example.com/x66396,
+Hooli Labs,NYC,327,"August 19, 2023",,Other,,no_mapping
+"Tesla, Inc.",NYC,6446,2024-01-21,0.68,,https://example.com/x74768,synthetic
+Apple,Various,10622,"October 15, 2024",0.73,,https://example.com/x66222,
+MICROSOFT CORP,Remote,94,08/16/2023,0.19,Tech,https://example.com/x94078,synthetic
+Apple Inc.,Austin,10493,2024/02/14,0.78,Other,https://example.com/x49617,
+Amazon,Austin,  7538  ,"October 19, 2023",0.03,Finance,https://example.com/x93118,synthetic
+TESLA,Austin,  3627  ,2025-02-20,0.44,Consumer,https://example.com/x41855,
+uber technologies,Remote,9672,05/11/2023,0.87,Tech,https://example.com/x81504,
+MSFT,Various,  418  ,2023-08-08,,Consumer,https://example.com/x74443,synthetic
+Tesla,Remote,522,08/29/2023,0.32,Finance,https://example.com/x39897,
+APPLE INC,Various,3747.0,2025-02-06,0.62,Consumer,https://example.com/x84256,synthetic
+Initech Solutions,NYC,140,"January 17, 2024",,Other,,no_mapping
+APPLE INC,Austin,11031,"September 09, 2024",0.42,Consumer,https://example.com/x87394,
+MSFT,Seattle,  8352  ,2023-04-20,0.45,,https://example.com/x40898,
+TESLA,Austin,11903.0,2024/02/14,0.40,Finance,https://example.com/x59268,
+airbnb inc,Austin,"1,564",2023/07/06,,,https://example.com/x16025,synthetic
+Amazon.com Inc.,SF Bay Area,8793,06-Jan-2025,,,https://example.com/x78076,synthetic
+airbnb inc,Various,"10,393","February 24, 2025",0.06,,https://example.com/x27366,
+Uber,SF Bay Area,7901,08/28/2024,0.90,Consumer,https://example.com/x17341,
+  Meta Platforms  ,Various,70,2023/02/23,0.82,Other,https://example.com/x66203,synthetic
+salesforce.com,Seattle,10252,10-Jun-2024,,,https://example.com/x31788,synthetic
+LYFT,Seattle,"1,870",2024-08-18,,Tech,https://example.com/x89254,synthetic
+META,Various,7844,05/12/2024,0.43,Other,https://example.com/x82465,synthetic
+"Lyft, Inc.",Remote,"5,684",16-Apr-2024,0.97,Finance,https://example.com/x64230,
+Globex Industries,NYC,362,"February 12, 2023",,Other,,no_mapping
+"Tesla, Inc.",Various,  2467  ,11/03/2024,,Other,https://example.com/x64569,
+Salesforce,Remote,  496  ,25-Jan-2024,0.70,Consumer,https://example.com/a8,
+Apple,Various,  10616  ,"October 15, 2024",0.73,,https://example.com/x66222,
+ Tesla Inc ,Austin,N/A,2024/03/18,,Consumer,https://example.com/x24151,synthetic
+Uber,SF Bay Area,"4,260",04-Jan-2023,0.11,Consumer,https://example.com/x53436,synthetic
+"Lyft, Inc.",Remote,  11711  ,2025/02/02,,Other,https://example.com/x29845,synthetic
+Apple Inc.,Austin,4279,10-Feb-2025,0.16,Other,https://example.com/x49158,
+uber technologies,Various,3052.0,01/15/2025,0.55,Tech,https://example.com/x38929,
+GOOGL,Seattle,N/A,03/29/2024,,Consumer,https://example.com/x8864,synthetic
+uber technologies,SF Bay Area,  603  ,19-Aug-2023,0.76,,https://example.com/x46933,
+AMAZON.COM,NYC,1495,2023/11/01,0.36,Finance,https://example.com/x75891,
+UBER,Remote,8707,2024-12-09,,Finance,https://example.com/x87977,
+"Lyft, Inc.",  ,6754.0,"May 25, 2023",0.01,,https://example.com/x53630,
+Google,SF Bay Area,7665,2023-03-07,0.40,Tech,https://example.com/x10729,
+AMAZON.COM,Various,9705,03/12/2023,0.10,Tech,https://example.com/x23715,
+tesla motors,SF Bay Area,8219.0,11/16/2024,,Consumer,https://example.com/x66660,
+LYFT INC,SF Bay Area,"6,557",2025/03/19,0.22,,https://example.com/x65564,
+Salesforce,NYC,10288,05-Feb-2024,,Consumer,https://example.com/x23854,synthetic
+salesforce.com,NYC,2645,"January 25, 2025",0.18,,https://example.com/x2315,
+Google LLC,NYC,7333,2023-08-23,0.66,,https://example.com/x18652,
+Lyft,Seattle,8823,21-Jun-2023,,Finance,https://example.com/x97730,synthetic
+Hooli Labs,NYC,484,03/21/2025,,Other,,no_mapping
+Tesla,Various,"6,222","February 08, 2023",0.26,Consumer,https://example.com/x70169,synthetic
+UBER,NYC,N/A,"January 23, 2024",0.81,Other,https://example.com/x32836,
+amazon.com,NYC,7038,15-Oct-2024,,Other,https://example.com/x33595,
+Apple Inc.,NYC,"7,314","December 17, 2023",0.13,Tech,https://example.com/x85626,synthetic
+"Lyft, Inc.",  ,1157,02/27/2024,,Consumer,https://example.com/x15263,synthetic
+"Lyft, Inc.",Remote,1826,"July 03, 2024",0.40,Other,https://example.com/x73432,
+AMAZON.COM,Remote,"9,229",2023-08-16,0.53,Other,https://example.com/x24791,synthetic
+Salesforce,X,100,not-a-date,,Tech,,bad_date
+AMZN,Austin,4718,2024/06/18,,Finance,https://example.com/x90011,synthetic
+"Airbnb, Inc.",  ,9301,14-May-2023,,Tech,https://example.com/x58913,
+meta platforms,SF Bay Area,8994.0,"November 12, 2023",0.14,Tech,https://example.com/x14528,
+tesla motors,Remote,5748,14-Mar-2024,0.10,Consumer,https://example.com/x91006,
+tesla motors,Austin,7248,2024/08/12,0.15,Tech,https://example.com/x30032,
+meta platforms,Various,  7598  ,2023/07/14,0.82,Other,https://example.com/x55885,
+Uber,  ,  4879  ,2024-01-16,0.48,Consumer,https://example.com/x57011,
+Salesforce,Various,10343,2024/08/03,0.61,Tech,https://example.com/x93371,
+Google,  ,522,05/03/2023,0.26,Consumer,https://example.com/x97652,synthetic
+MSFT,Austin,8022,2024/04/17,0.43,,https://example.com/x13275,
+CRM,Remote,N/A,2024-09-05,0.89,Other,https://example.com/x5523,
+tesla motors,Remote,9964,2023/08/30,0.71,,https://example.com/x98952,
+Globex Industries,NYC,397,2024-06-10,,Other,,no_mapping
+Microsoft Corporation,Various,84,03/17/2024,0.78,Other,https://example.com/x5617,
+uber technologies,  ,9060,07/24/2024,0.32,Consumer,https://example.com/x30389,
+CRM,Various,4250,"March 19, 2025",0.28,Consumer,https://example.com/x88522,
+uber technologies,NYC,"4,736","October 31, 2023",0.85,Consumer,https://example.com/x73929,
+"Meta Platforms, Inc.",Remote,5481,2023/07/10,,Finance,https://example.com/x6749,
+Lyft,Remote,"2,775",2023/01/24,0.41,,https://example.com/x21000,synthetic
+  Meta Platforms  ,Various,8882,03/09/2023,,Finance,https://example.com/x53624,
+"Lyft, Inc.",Austin,9600,"October 07, 2024",,Consumer,https://example.com/x79391,
+Microsoft,  ,6347.0,27-Mar-2024,0.31,Consumer,https://example.com/x78860,
+Salesforce Inc.,Austin,10097,2023-09-02,0.51,Other,https://example.com/x54227,synthetic
+Apple Computer,Seattle,11230,"February 06, 2023",0.38,Tech,https://example.com/x87279,
+Alphabet,  ,7118,"January 12, 2024",,Finance,https://example.com/x60859,synthetic
+Google,NYC,8882,"April 30, 2024",0.18,Finance,https://example.com/x40793,synthetic
+Salesforce Inc.,NYC,9039,19-Aug-2024,0.01,Tech,https://example.com/x91327,
+"Uber Technologies, Inc.",Seattle,6637,2024-04-04,,Tech,https://example.com/x79751,
+TESLA,  ,5909,2023/11/23,0.44,Other,https://example.com/x34064,
+LYFT INC,Various,3931,27-Feb-2024,0.88,Tech,https://example.com/x90400,synthetic
+ABNB,NYC,11599,01/30/2025,0.17,Finance,https://example.com/x88391,
+LYFT,Various,  7966  ,03/08/2024,0.74,Tech,https://example.com/x93783,
+Uber,Various,"3,143","November 05, 2024",0.85,Finance,https://example.com/x49320,
+META,Seattle,  10011  ,"December 08, 2023",0.73,,https://example.com/x54452,synthetic
+Salesforce Inc.,SF Bay Area,"10,614",03/15/2025,0.70,Tech,https://example.com/x19316,
+salesforce.com,Remote,7300.0,07/03/2024,,,https://example.com/x72248,
+META PLATFORMS,Remote,205,2023/02/12,,,https://example.com/x55442,
+  Meta Platforms  ,Various,N/A,2023/10/10,0.81,,https://example.com/x72275,
+LYFT INC,NYC,7550,2025-03-05,0.92,Tech,https://example.com/x10538,
+"Lyft, Inc.",Seattle,  587  ,"July 03, 2023",,Other,https://example.com/x47430,
+uber technologies,Seattle,"9,966",12-Feb-2024,0.57,Other,https://example.com/x86987,
+Alphabet Inc.,SF Bay Area,10643,"February 22, 2024",0.65,Other,https://example.com/x38114,
+Hooli Labs,NYC,306,"June 12, 2024",,Other,,no_mapping
+Meta Platforms Inc,Seattle,N/A,"December 18, 2024",0.19,Finance,https://example.com/x77468,
+AMAZON.COM,Seattle,1778.0,"July 18, 2023",0.40,,https://example.com/x97298,synthetic
+Globex Industries,NYC,248,"September 02, 2024",,Other,,no_mapping
+Google LLC,Various,9212,2024-04-07,,Finance,https://example.com/x42479,synthetic
+Amazon.com Inc.,  ,6341.0,2024/10/29,0.12,Other,https://example.com/x36441,
+salesforce.com,SF Bay Area,10209,08/11/2024,0.80,Finance,https://example.com/x89357,
+Apple Computer,  ,11154,2025/03/06,0.21,Finance,https://example.com/x97720,
+Soylent Corp,NYC,79,12/11/2023,,Other,,no_mapping
+  Meta Platforms  ,SF Bay Area,  11264  ,05-Jan-2023,0.56,Other,https://example.com/x87247,
+"Lyft, Inc.",Seattle,540,"July 03, 2023",,Other,https://example.com/x47430,
+Salesforce Inc.,  ,10034,11/29/2023,,Tech,https://example.com/x98355,
+Lyft,Seattle,8818,21-Jun-2023,,Finance,https://example.com/x97730,synthetic
+TESLA,Remote,2096,01/20/2023,0.33,,https://example.com/x67093,
+Salesforce Inc.,Seattle,6267,2024-01-29,0.09,Finance,https://example.com/x19776,synthetic
+GOOGL,Remote,4197,2024/01/17,0.84,,https://example.com/x24219,
+ABNB,Various,"7,123",16-Aug-2024,,Tech,https://example.com/x982,synthetic
+"Airbnb, Inc.",SF Bay Area,  5813  ,"October 29, 2024",,Consumer,https://example.com/x45800,synthetic
+TESLA,Remote,5468.0,2024-05-13,0.50,Finance,https://example.com/x54643,
+apple inc.,SF Bay Area,  2632  ,2024/10/22,0.67,Consumer,https://example.com/x64061,
+  Apple Inc  ,NYC,9842,24-Oct-2024,0.07,,https://example.com/x49914,
+LYFT,  ,N/A,21-Jun-2023,,,https://example.com/x40183,
+ABNB,Seattle,"3,978",12/10/2024,,Other,https://example.com/x91664,
+amazon.com,Remote,  945  ,2024-08-28,0.50,Finance,https://example.com/x49861,synthetic
+LYFT,Austin,10963,18-Oct-2024,0.64,Consumer,https://example.com/x26615,
+meta platforms,SF Bay Area,"10,829",2025-03-13,0.93,,https://example.com/x7074,
+LYFT INC,Remote,315.0,05-Jul-2024,0.77,Other,https://example.com/x49427,
+Google LLC,Various,3091.0,2024-04-19,0.63,Consumer,https://example.com/x91122,
+MICROSOFT CORP,SF Bay Area,7490,08/21/2024,0.53,Other,https://example.com/x7979,synthetic
+LYFT INC,SF Bay Area,10640,20-Nov-2023,0.22,Finance,https://example.com/x17712,
+LYFT INC,  ,5293,2023-07-23,,Consumer,https://example.com/x41822,synthetic
+UBER,Austin,4007,2023/01/06,,,https://example.com/x91776,
+Alphabet,Remote,7199,2024/07/14,0.08,Tech,https://example.com/x45487,
+Salesforce Inc.,Austin,7683.0,11-Sep-2023,0.67,Consumer,https://example.com/x85685,
+"Airbnb, Inc.",Various,9306,07-Apr-2023,,Other,https://example.com/x37340,
+  Meta Platforms  ,Seattle,  8689  ,2024-04-23,,Finance,https://example.com/x22411,synthetic
+META,  ,4443,11/11/2024,0.66,Finance,https://example.com/x77624,synthetic
+TESLA,Various,  1880  ,2023/09/28,,Consumer,https://example.com/x14591,synthetic
+Airbnb Inc.,SF Bay Area,5963.0,14-Jul-2023,0.77,Finance,https://example.com/x23030,
+MSFT,Various,N/A,2024-07-31,,Other,https://example.com/x4773,
+LYFT,Various,2218,12/14/2024,0.48,Tech,https://example.com/x53502,
+LYFT,SF Bay Area,2495,01/17/2024,0.93,Other,https://example.com/x37857,
+"Airbnb, Inc.",NYC,11709,07-Nov-2024,0.77,Tech,https://example.com/x59823,synthetic
+Salesforce Inc.,NYC,9007,19-Aug-2024,0.01,Tech,https://example.com/x91327,
+Airbnb Inc.,Seattle,533,05-Oct-2023,,,https://example.com/a9,
+Salesforce,Various,  7674  ,08-Sep-2023,,Finance,https://example.com/x90138,
+MSFT,  ,3008.0,01/02/2025,0.29,,https://example.com/x69394,
+Lyft,SF Bay Area,266,"January 31, 2023",0.24,,https://example.com/x91642,
+APPLE INC,Seattle,8719.0,2025-02-08,,Other,https://example.com/x62788,
+Google LLC,Seattle,546,05/20/2023,,Consumer,https://example.com/x11482,
+"Airbnb, Inc.",NYC,4825,"September 06, 2024",,Tech,https://example.com/x19981,
+LYFT,Various,  7633  ,22-Jan-2024,0.13,Consumer,https://example.com/x85571,synthetic
+LYFT,Remote,11383.0,15-Mar-2023,0.50,Other,https://example.com/x63380,
+Meta Platforms Inc,Remote,5127.0,"July 11, 2024",,Finance,https://example.com/x65492,synthetic
+tesla motors,Austin,  3905  ,02/02/2023,0.76,Tech,https://example.com/x95374,
+Google,Austin,7663,05-Feb-2025,,Other,https://example.com/x76879,synthetic
+meta platforms,NYC,9506,2024-04-05,,Finance,https://example.com/x82393,
+META,NYC,11988.0,2025-01-18,,,https://example.com/x27770,
+MSFT,NYC,  5001  ,"January 19, 2024",0.47,Finance,https://example.com/x50456,synthetic
+uber technologies,  ,"6,935","December 21, 2023",0.25,Other,https://example.com/x11758,
+"Meta Platforms, Inc.",NYC,8501,2023-09-15,0.18,Tech,https://example.com/x24868,
+Apple Inc.,Remote,237.0,"June 10, 2024",0.51,,https://example.com/a1,
+AMAZON.COM,  ,11151,30-Aug-2023,,Finance,https://example.com/x69119,synthetic
+Tesla,Austin,9074,07/15/2024,0.33,,https://example.com/x68791,synthetic
+Globex Industries,NYC,56,2024-05-01,,Other,,no_mapping
+"Airbnb, Inc.",NYC,4076,2025-01-23,,Finance,https://example.com/x49496,synthetic
+Lyft,Seattle,N/A,2023-10-27,0.75,Consumer,https://example.com/x48376,
+Meta Platforms Inc,Remote,11754,2024-07-25,0.68,Finance,https://example.com/x81020,
+Microsoft Corporation,NYC,"2,806",05/10/2023,0.93,Other,https://example.com/x21743,
+Apple Computer,Austin,  7362  ,15-Aug-2023,,Finance,https://example.com/x3492,
+LYFT INC,Austin,2853,2023/07/03,0.33,Tech,https://example.com/x11185,synthetic
+"Airbnb, Inc.",  ,10849,22-Jul-2024,0.26,Consumer,https://example.com/x91814,
+Microsoft Corporation,Remote,1374,2024/07/23,,Finance,https://example.com/x77788,
+Google,NYC,"11,018",10/07/2024,0.32,,https://example.com/x95119,
+Google LLC,Various,6831.0,2023-09-15,0.03,Finance,https://example.com/x28683,synthetic
+"Airbnb, Inc.",  ,11052.0,2024-10-13,,Consumer,https://example.com/x90960,
+ Tesla Inc ,NYC,  1509  ,"October 14, 2024",0.52,Consumer,https://example.com/x7501,synthetic
+Amazon,Austin,1909.0,06-Mar-2023,0.50,Tech,https://example.com/x50206,
+"Lyft, Inc.",Austin,795,01/16/2024,,,https://example.com/x3225,
+Soylent Corp,NYC,35,"April 08, 2024",,Other,,no_mapping
+Salesforce Inc.,Austin,  10024  ,2024-10-03,0.27,,https://example.com/x10129,
+Google LLC,Seattle,  3455  ,"January 08, 2025",,,https://example.com/x74411,
+LYFT INC,SF Bay Area,  8003  ,2024-07-10,0.27,Other,https://example.com/x23769,
+Alphabet Inc.,  ,7226,11/10/2023,,Other,https://example.com/x97407,synthetic
+ABNB,SF Bay Area,875,06/15/2023,0.20,Finance,https://example.com/x57750,
+Microsoft Corporation,NYC,"8,910",12-Dec-2023,0.57,Consumer,https://example.com/x77062,
+ Tesla Inc ,X,100,not-a-date,,Tech,,bad_date
+Hooli Labs,NYC,339,"June 25, 2023",,Other,,no_mapping
+Google LLC,NYC,879,2024-11-30,,Finance,https://example.com/x47836,synthetic
+LYFT INC,Seattle,"5,908",2023/06/26,0.66,Other,https://example.com/x9017,
+AMZN,Austin,8327,2023-05-04,0.24,Finance,https://example.com/x14034,synthetic
+Salesforce Inc.,NYC,  10800  ,2023/03/17,0.64,Tech,https://example.com/x2898,synthetic
+Amazon,Seattle,10244.0,2024-02-03,,Other,https://example.com/x67236,
+Apple Inc.,Remote,2728.0,11/02/2023,0.24,Consumer,https://example.com/x94478,synthetic
+Microsoft Corporation,SF Bay Area,N/A,2024/03/03,0.12,,https://example.com/x5603,synthetic
+AMAZON.COM,Remote,  10542  ,16-Oct-2023,,Tech,https://example.com/x56309,
+Salesforce,  ,8623,11/11/2024,,Tech,https://example.com/x62411,synthetic
+LYFT,SF Bay Area,"4,339",01-Jun-2024,0.42,Consumer,https://example.com/x16585,synthetic
+APPLE INC,Austin,  6160  ,13-Feb-2024,,Other,https://example.com/x93138,synthetic
+"Meta Platforms, Inc.",SF Bay Area,  8273  ,2024/02/03,0.21,Tech,https://example.com/x76035,
+LYFT,Austin,2730,"January 10, 2024",0.77,Tech,https://example.com/x57949,
+Microsoft Corporation,NYC,"5,459","November 02, 2024",0.37,Other,https://example.com/x37475,
+MSFT,Austin,N/A,2024/09/25,0.26,Tech,https://example.com/x51212,
+ Tesla Inc ,Seattle,11214.0,2025-01-30,,,https://example.com/x71595,synthetic
+uber technologies,Various,"9,596","August 26, 2023",0.78,Tech,https://example.com/x3863,synthetic
+"Tesla, Inc.",NYC,9754.0,08/07/2024,0.86,Other,https://example.com/x61971,
+salesforce.com,Remote,9200,"June 17, 2024",,Consumer,https://example.com/x92460,synthetic
+Initech Solutions,NYC,302,2024-09-03,,Other,,no_mapping
+uber technologies,  ,742.0,05-Apr-2024,0.84,Tech,https://example.com/x47236,synthetic
+TESLA,Various,4495.0,2024-10-13,,,https://example.com/x93335,synthetic
+MSFT,SF Bay Area,"7,496","September 18, 2024",0.19,Other,https://example.com/x65894,
+APPLE INC,NYC,11422,04-Feb-2023,0.78,Consumer,https://example.com/x35896,
+Microsoft,Austin,5425,02/22/2024,0.48,,https://example.com/x59101,
+Salesforce,SF Bay Area,3751,2025/02/18,,,https://example.com/x33171,
+Microsoft,SF Bay Area,"3,897",2023/07/08,,Consumer,https://example.com/x51177,
+GOOGL,Seattle,10409.0,2024/10/14,0.34,Other,https://example.com/x97717,
+"Meta Platforms, Inc.",Various,"9,670",2023/08/20,0.81,Consumer,https://example.com/x71106,synthetic
+Apple Inc.,SF Bay Area,11678,07/04/2023,0.76,Tech,https://example.com/x65666,synthetic
+uber technologies,  ,1739,2023-04-11,,,https://example.com/x52749,
+APPLE INC,SF Bay Area,7175,2023-05-18,,Consumer,https://example.com/x8485,
+META PLATFORMS,Various,8700,2023-11-14,0.22,Other,https://example.com/x41169,
+CRM,Austin,238,2024-03-04,0.37,,https://example.com/x1329,
+TESLA,  ,  1011  ,10-Dec-2023,0.71,Other,https://example.com/x3566,
+Apple,Remote,2309,2025-03-28,,Consumer,https://example.com/x67029,synthetic
+Hooli Labs,NYC,136,2025-02-14,,Other,,no_mapping
+Google LLC,Various,10293,29-Dec-2024,0.40,Tech,https://example.com/x2719,synthetic
+salesforce.com,NYC,2915,2023/02/08,0.40,Other,https://example.com/x26905,
+google llc,Austin,367,05/13/2023,,Consumer,https://example.com/x286,
+Google,  ,8205,"October 03, 2023",,Consumer,https://example.com/x88772,
+uber technologies,Remote,9446,2024-11-10,0.56,Finance,https://example.com/x20689,
+"Meta Platforms, Inc.",Various,645,09-Aug-2023,0.33,Other,https://example.com/x79584,
+"Meta Platforms, Inc.",Various,  9638  ,2023/08/20,0.81,Consumer,https://example.com/x71106,synthetic
+salesforce.com,Seattle,3482,03/11/2023,0.38,,https://example.com/x25259,
+Globex Industries,NYC,27,02/23/2025,,Other,,no_mapping
+"Lyft, Inc.",  ,11254.0,2023/03/08,0.28,Finance,https://example.com/x39853,
+Google LLC,X,100,not-a-date,,Tech,,bad_date
+airbnb inc,Austin,3724,"March 08, 2023",0.31,Consumer,https://example.com/x21154,synthetic
+salesforce.com,NYC,4895.0,18-Aug-2023,,Tech,https://example.com/x3391,
+ABNB,Remote,"8,457","December 21, 2024",,Other,https://example.com/x14157,
+CRM,NYC,"10,932",10/10/2024,,Consumer,https://example.com/x69893,
+Uber,Remote,2871.0,2023-01-13,0.15,,https://example.com/x54076,
+Salesforce,Seattle,"3,338",27-Oct-2024,0.70,,https://example.com/x52024,
+META PLATFORMS,Seattle,11079,2023-09-30,,Finance,https://example.com/x79701,synthetic
+Alphabet Inc.,Austin,"9,677","February 12, 2024",,Finance,https://example.com/x43952,
+META,  ,  8662  ,2024-01-15,0.54,Other,https://example.com/x98249,
+Salesforce Inc.,Remote,  1999  ,01/22/2023,0.13,Tech,https://example.com/x97341,synthetic
+"Uber Technologies, Inc.",Austin,7671.0,"July 28, 2023",0.91,,https://example.com/x42082,synthetic
+Apple,Seattle,  6489  ,13-Nov-2024,,Consumer,https://example.com/x11440,
+Salesforce,SF Bay Area,11580,2024-10-13,0.56,Consumer,https://example.com/x22694,
+AMAZON.COM,Seattle,1599,02/03/2024,,,https://example.com/x20862,
+Salesforce,NYC,9765.0,"February 04, 2023",,Consumer,https://example.com/x13761,synthetic
+Microsoft,Austin,  1184  ,23-May-2024,0.52,,https://example.com/x23109,synthetic
+  Meta Platforms  ,Various,"1,806",2023/11/07,,Consumer,https://example.com/x52024,
+ Tesla Inc ,Remote,178,03-May-2024,0.22,Consumer,https://example.com/x85119,synthetic
+ABNB,  ,10230,2023/11/22,0.98,Consumer,https://example.com/x96629,
+"Lyft, Inc.",Various,9494,2024/01/23,,Consumer,https://example.com/x77588,
+APPLE INC,Austin,"11,811",2025-01-05,,Consumer,https://example.com/x4055,
+Tesla,Various,  11100  ,2025-01-31,,Tech,https://example.com/x58548,synthetic
+  Apple Inc  ,SF Bay Area,384,2023/08/31,0.49,Consumer,https://example.com/x18757,
+Initech Solutions,NYC,500,2023-03-10,,Other,,no_mapping
+LYFT INC,Remote,"11,550",2024-03-15,,Consumer,https://example.com/x70314,
+Lyft,NYC,"7,555",2024-05-13,,Other,https://example.com/x82342,synthetic
+Amazon,Seattle,"8,725","August 22, 2024",,Finance,https://example.com/x88148,synthetic
+Apple Inc.,Remote,  11507  ,2023/11/12,,Finance,https://example.com/x30858,
+Microsoft Corporation,  ,8731,"May 22, 2024",0.40,,https://example.com/x33317,
+Lyft,SF Bay Area,6973,28-Jun-2024,0.58,Finance,https://example.com/x30405,
+Meta,Various,6687.0,"February 02, 2024",0.41,Finance,https://example.com/x25641,synthetic
+airbnb inc,Various,  5902  ,2024-05-28,0.09,Finance,https://example.com/x26298,
+Tesla,NYC,5170,2024-10-13,,Finance,https://example.com/x36573,
+ABNB,  ,5885,2025-02-17,,,https://example.com/x64311,synthetic
+Google LLC,NYC,312.0,2024-07-07,,Tech,https://example.com/x44633,
+  Meta Platforms  ,SF Bay Area,9756,2024/05/29,,Tech,https://example.com/x81586,
+  Apple Inc  ,SF Bay Area,7566,03/21/2023,0.25,,https://example.com/x68735,
+Meta Platforms Inc,SF Bay Area,6939.0,03/24/2023,0.65,,https://example.com/x86327,synthetic
+Microsoft,Seattle,3931,10-Sep-2023,,Other,https://example.com/x88655,
+Amazon,Seattle,6368,"July 10, 2024",0.79,Other,https://example.com/x61650,
+ Tesla Inc ,Austin,  8572  ,"January 30, 2023",,,https://example.com/x24500,synthetic
+Microsoft,Seattle,"2,600",12/25/2023,,Tech,https://example.com/x50052,synthetic
+Amazon,NYC,3703.0,2024-10-10,,Finance,https://example.com/x10802,
+Apple,  ,  2197  ,16-May-2023,0.85,,https://example.com/x55242,
+MICROSOFT CORP,Austin,  10441  ,15-Jan-2025,0.13,Finance,https://example.com/x27131,
+"Tesla, Inc.",Seattle,10173,2024/11/24,0.84,,https://example.com/x93343,
+"Lyft, Inc.",Austin,"3,026",2024-07-19,,Finance,https://example.com/x76855,
+"Uber Technologies, Inc.",Remote,4805,02/27/2025,0.34,,https://example.com/x4371,
+Apple Inc.,Seattle,8539,2024-05-02,0.86,Finance,https://example.com/x67153,
+UBER,Seattle,"9,858",06/24/2023,0.30,Consumer,https://example.com/x31462,
+Uber,Austin,N/A,"January 10, 2024",0.51,,https://example.com/a4,
+"Airbnb, Inc.",Seattle,7288,01/27/2025,0.54,Tech,https://example.com/x99914,
+uber technologies,Austin,7304,07-Oct-2024,0.22,Finance,https://example.com/x61767,
+"Lyft, Inc.",Austin,7265,03/22/2023,,,https://example.com/x47064,
+Salesforce Inc.,  ,4226,"January 19, 2025",0.86,Tech,https://example.com/x2698,
+Apple Inc.,Seattle,3470,"September 20, 2024",,Tech,https://example.com/x13034,
+Soylent Corp,NYC,80,26-Feb-2024,,Other,,no_mapping
+Tesla,SF Bay Area,11919,10/15/2024,,Consumer,https://example.com/x14691,synthetic
+Google,  ,228,2024-10-21,0.55,Other,https://example.com/x3215,
+Amazon.com Inc.,NYC,5893,2023-01-24,0.61,Consumer,https://example.com/x11365,
+microsoft corp.,Austin,2625,2024/08/20,,,https://example.com/x14287,
+Microsoft,Various,2863.0,2023-03-09,0.06,,https://example.com/x22863,
+LYFT INC,Austin,"8,241","November 30, 2024",,Finance,https://example.com/x54274,
+LYFT INC,Various,"1,370","March 21, 2024",,Consumer,https://example.com/x14684,
+Salesforce Inc.,Various,"2,690","December 25, 2024",0.66,Finance,https://example.com/x70075,
+Uber,NYC,10025,03/30/2024,0.40,,https://example.com/x1479,
+Soylent Corp,NYC,401,"April 13, 2024",,Other,,no_mapping
+Lyft,Remote,  2629  ,"April 24, 2023",0.63,,https://example.com/x52260,
+Meta Platforms Inc,Remote,8762.0,2024-08-18,0.29,Finance,https://example.com/x89995,
+"Meta Platforms, Inc.",Remote,  4479  ,2023-08-13,,Finance,https://example.com/x64006,
+tesla motors,Various,3766,2024-02-10,0.94,Consumer,https://example.com/x69719,
+UBER,Remote,1006,"November 11, 2024",,Finance,https://example.com/x23964,
+TESLA,NYC,6846,"April 24, 2024",,,https://example.com/x38184,synthetic
+Alphabet,Seattle,2211,03/23/2024,0.25,,https://example.com/x82248,synthetic
+MICROSOFT CORP,Various,8592,2023/08/19,,,https://example.com/x69966,
+Google,Seattle,"7,029",2024-02-05,0.59,,https://example.com/x80523,
+META PLATFORMS,SF Bay Area,"10,335",09-Mar-2024,,Other,https://example.com/x73433,synthetic
+Salesforce,Seattle,4583,09-Dec-2024,0.64,Tech,https://example.com/x11698,
+"Meta Platforms, Inc.",  ,1778,2024-05-14,0.21,Finance,https://example.com/x64691,
+"Uber Technologies, Inc.",Austin,8298,12-Mar-2024,0.66,,https://example.com/x1181,
+Meta Platforms Inc,NYC,"6,422","April 30, 2023",0.44,Finance,https://example.com/x93220,
+Apple Computer,Remote,11219,"June 12, 2024",,Tech,https://example.com/x7242,
+Initech Solutions,NYC,173,"February 25, 2024",,Other,,no_mapping
+Apple Inc.,Seattle,"8,563",2024-05-02,0.86,Finance,https://example.com/x67153,
