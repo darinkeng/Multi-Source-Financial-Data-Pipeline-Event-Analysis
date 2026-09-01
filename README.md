@@ -30,7 +30,7 @@ assets/powerbi_dashboard.png
 Once the screenshot is added:
 
 ```markdown
-![Power BI Dashboard](assets/powerbi_dashboard.png)
+![Power BI Dashboard](assets/PowerBI_dashboard.png)
 ```
 
 The dashboard summarizes company financial performance, stock-price movements, and event-related market behavior across the companies included in the analysis.
