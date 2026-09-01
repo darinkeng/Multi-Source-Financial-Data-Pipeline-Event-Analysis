@@ -108,8 +108,8 @@ Example analyses are stored in:
 
 ```text
 sql/
-├── 01_revenue_vs_stock.sql
-└── 02_layoff_market_reaction.sql
+├── revenue_vs_stock.sql
+└── layoff_market_reaction.sql
 ```
 
 BigQuery execution plans are also included to demonstrate how the analytical queries were processed.
@@ -125,11 +125,8 @@ financial-market-analytics-pipeline/
 │   ├── revenue_vs_stock.sql
 │   └── layoff_market_reaction.sql
 │
-├── notebooks/
-│   └── portfolio_walkthrough.ipynb
-│
-├── dashboard/
-│   └── README.md
+├── python_code/
+│   └── Financial_analytics_notebook.ipynb
 │
 ├── assets/
 │   ├── revenue_vs_stock_price.png
