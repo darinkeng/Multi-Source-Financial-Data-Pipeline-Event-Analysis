@@ -20,7 +20,7 @@ The processed datasets are loaded into **Google BigQuery**, where SQL queries ar
 A **Power BI dashboard** provides an interactive view of the resulting financial and event-level insights.
 
 ## Dashboard
-
+![Power BI Dashboard](assets/PowerBI_dashboard.png)
 > Add a screenshot of the Power BI dashboard here.
 
 ```text
