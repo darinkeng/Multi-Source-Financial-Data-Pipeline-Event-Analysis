@@ -21,18 +21,6 @@ A **Power BI dashboard** provides an interactive view of the resulting financial
 
 ## Dashboard
 ![Power BI Dashboard](assets/PowerBI_dashboard.png)
-> Add a screenshot of the Power BI dashboard here.
-
-```text
-assets/powerbi_dashboard.png
-```
-
-Once the screenshot is added:
-
-```markdown
-![Power BI Dashboard](assets/PowerBI_dashboard.png)
-```
-
 The dashboard summarizes company financial performance, stock-price movements, and event-related market behavior across the companies included in the analysis.
 
 ## Data Pipeline
@@ -132,11 +120,10 @@ BigQuery execution plans are also included to demonstrate how the analytical que
 financial-market-analytics-pipeline/
 │
 ├── README.md
-├── requirements.txt
 │
 ├── sql/
-│   ├── 01_revenue_vs_stock.sql
-│   └── 02_layoff_market_reaction.sql
+│   ├── revenue_vs_stock.sql
+│   └── layoff_market_reaction.sql
 │
 ├── notebooks/
 │   └── portfolio_walkthrough.ipynb
@@ -191,23 +178,3 @@ https://github.com/darinkeng/Multi-Source-Financial-Data-Pipeline-Event-Analysis
 * Event-window analysis
 * Business intelligence dashboard development
 * Data visualization
-
-## Running the Project
-
-Install the Python dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the preprocessing pipeline:
-
-```bash
-python src/clean_data.py
-```
-
-The resulting processed tables can then be uploaded to BigQuery and analyzed using the SQL queries in the `sql/` directory.
-
-## Project Context
-
-This project was originally developed as part of a graduate-level data engineering course and was subsequently reorganized into a portfolio project to highlight the end-to-end workflow, including data preprocessing, cloud-based SQL analytics, and business intelligence visualization.
