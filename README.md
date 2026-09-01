@@ -134,10 +134,6 @@ financial-market-analytics-pipeline/
 ├── README.md
 ├── requirements.txt
 │
-├── src/
-│   ├── clean_data.py
-│   └── sec_revenue.py
-│
 ├── sql/
 │   ├── 01_revenue_vs_stock.sql
 │   └── 02_layoff_market_reaction.sql
@@ -155,15 +151,15 @@ financial-market-analytics-pipeline/
 │   └── query_plans/
 │
 └── data/
-    ├── raw/
-    ├── processed/
-    └── reference/
+    ├── Layoff.csv
+    ├── News.csv
+    └── Stock.csv
 ```
 
 ## Technologies
 
 **Languages & Data Processing**
-
+https://github.com/darinkeng/Multi-Source-Financial-Data-Pipeline-Event-Analysis/tree/main
 * Python
 * Pandas
 * SQL
